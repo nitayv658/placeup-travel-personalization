@@ -1,0 +1,1501 @@
+user_id,age,gender,signup_method,signup_flow,affiliate_channel,first_device_type,country_destination,age_missing_or_invalid,gender_missing
+USER_07863,26.0,UNKNOWN,facebook,0,other,iPhone,US,0,1
+USER_03177,28.0,FEMALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_05435,27.0,FEMALE,google,0,sem-brand,Windows Desktop,NDF,0,0
+USER_05267,27.0,FEMALE,basic,0,direct,iPhone,NDF,0,0
+USER_08304,43.0,FEMALE,facebook,3,other,Mac Desktop,DE,0,0
+USER_01350,21.0,MALE,basic,0,direct,Windows Desktop,other,0,0
+USER_01165,60.0,MALE,facebook,0,direct,Mac Desktop,NDF,0,0
+USER_04861,24.0,MALE,google,3,direct,Mac Desktop,NDF,0,0
+USER_01391,26.0,FEMALE,basic,0,sem-non-brand,Mac Desktop,NDF,0,0
+USER_00194,35.0,UNKNOWN,basic,0,direct,Windows Desktop,NDF,0,1
+USER_04201,22.0,UNKNOWN,basic,0,direct,Windows Desktop,US,0,1
+USER_06886,27.0,UNKNOWN,basic,12,direct,Mac Desktop,US,0,1
+USER_02501,44.0,FEMALE,facebook,0,direct,Windows Desktop,NDF,0,0
+USER_01842,27.0,MALE,basic,3,direct,Mac Desktop,US,0,0
+USER_01689,31.0,MALE,google,0,direct,iPhone,NDF,0,0
+USER_08708,49.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_08123,,FEMALE,basic,0,direct,Windows Desktop,IT,1,0
+USER_04603,48.0,MALE,basic,0,sem-brand,Mac Desktop,NDF,0,0
+USER_01035,51.0,OTHER,google,3,sem-brand,Mac Desktop,GB,0,0
+USER_01337,30.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_04170,,FEMALE,basic,0,direct,Windows Desktop,NDF,1,0
+USER_07767,25.0,MALE,basic,25,sem-brand,Windows Desktop,US,0,0
+USER_01613,33.0,OTHER,basic,0,direct,Windows Desktop,US,0,0
+USER_04689,28.0,MALE,basic,3,sem-brand,Windows Desktop,other,0,0
+USER_00864,27.0,FEMALE,basic,3,direct,Windows Desktop,NDF,0,0
+USER_03812,24.0,MALE,facebook,0,direct,iPhone,US,0,0
+USER_02028,36.0,MALE,basic,0,direct,iPhone,US,0,0
+USER_09065,29.0,FEMALE,basic,0,sem-brand,Mac Desktop,other,0,0
+USER_03487,41.0,MALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_07257,41.0,FEMALE,basic,0,direct,Mac Desktop,FR,0,0
+USER_06523,42.0,FEMALE,basic,0,sem-non-brand,Mac Desktop,US,0,0
+USER_04891,20.0,UNKNOWN,basic,25,sem-non-brand,Mac Desktop,NDF,0,1
+USER_04723,30.0,OTHER,basic,0,other,Android Phone,NDF,0,0
+USER_03049,47.0,MALE,basic,0,direct,iPhone,US,0,0
+USER_02283,,OTHER,basic,0,sem-brand,Windows Desktop,US,1,0
+USER_08948,37.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_04769,42.0,OTHER,facebook,25,direct,Mac Desktop,NDF,0,0
+USER_01583,,FEMALE,basic,0,direct,Windows Desktop,IT,1,0
+USER_02746,36.0,UNKNOWN,basic,3,direct,Mac Desktop,US,0,1
+USER_07999,56.0,FEMALE,google,0,direct,Windows Desktop,US,0,0
+USER_00784,40.0,MALE,basic,0,direct,Mac Desktop,DE,0,0
+USER_05852,40.0,FEMALE,basic,25,direct,Windows Desktop,ES,0,0
+USER_06015,24.0,UNKNOWN,facebook,0,direct,Windows Desktop,IT,0,1
+USER_04836,,FEMALE,facebook,3,direct,Mac Desktop,NDF,1,0
+USER_09784,26.0,FEMALE,basic,0,sem-brand,iPhone,ES,0,0
+USER_09701,38.0,OTHER,basic,25,sem-brand,iPhone,NDF,0,0
+USER_00771,27.0,OTHER,basic,0,direct,iPhone,NDF,0,0
+USER_04041,42.0,MALE,google,12,direct,Mac Desktop,NDF,0,0
+USER_05350,40.0,MALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_06409,36.0,FEMALE,facebook,0,sem-non-brand,Windows Desktop,IT,0,0
+USER_07447,28.0,UNKNOWN,google,3,direct,Android Phone,US,0,1
+USER_03460,52.0,FEMALE,basic,25,sem-non-brand,Windows Desktop,IT,0,0
+USER_07347,19.0,UNKNOWN,basic,25,direct,Windows Desktop,NDF,0,1
+USER_00223,26.0,MALE,basic,0,sem-brand,Windows Desktop,ES,0,0
+USER_05885,52.0,FEMALE,basic,0,sem-non-brand,Windows Desktop,NDF,0,0
+USER_09897,31.0,FEMALE,google,0,sem-brand,Windows Desktop,NDF,0,0
+USER_09408,29.0,MALE,basic,0,direct,Windows Desktop,ES,0,0
+USER_06947,43.0,MALE,facebook,0,sem-brand,Android Phone,other,0,0
+USER_06364,49.0,FEMALE,basic,0,sem-brand,Mac Desktop,NDF,0,0
+USER_06530,40.0,FEMALE,basic,0,sem-non-brand,iPhone,ES,0,0
+USER_01500,42.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_06622,38.0,UNKNOWN,facebook,0,other,Mac Desktop,FR,0,1
+USER_06264,27.0,MALE,basic,0,direct,Mac Desktop,IT,0,0
+USER_09945,24.0,FEMALE,basic,0,direct,iPhone,NDF,0,0
+USER_02546,18.0,OTHER,basic,0,direct,Windows Desktop,NDF,0,0
+USER_00557,29.0,OTHER,basic,0,direct,Windows Desktop,IT,0,0
+USER_03169,29.0,MALE,basic,0,direct,Windows Desktop,ES,0,0
+USER_02954,23.0,FEMALE,google,0,sem-non-brand,Mac Desktop,NDF,0,0
+USER_00538,45.0,MALE,basic,0,sem-brand,iPhone,ES,0,0
+USER_06723,16.0,FEMALE,basic,0,direct,Windows Desktop,US,0,0
+USER_07732,29.0,UNKNOWN,basic,3,other,iPhone,NDF,0,1
+USER_08785,36.0,FEMALE,google,0,sem-brand,iPhone,IT,0,0
+USER_08539,,MALE,basic,0,direct,Windows Desktop,NDF,1,0
+USER_07996,37.0,UNKNOWN,basic,0,sem-non-brand,Windows Desktop,GB,0,1
+USER_05472,29.0,FEMALE,basic,0,sem-brand,Windows Desktop,US,0,0
+USER_07623,25.0,FEMALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_00544,16.0,FEMALE,basic,0,direct,Mac Desktop,US,0,0
+USER_08297,38.0,MALE,basic,0,direct,Windows Desktop,other,0,0
+USER_04445,25.0,FEMALE,basic,0,direct,iPhone,ES,0,0
+USER_09075,50.0,MALE,basic,0,direct,Mac Desktop,US,0,0
+USER_05329,24.0,UNKNOWN,basic,25,other,iPhone,NDF,0,1
+USER_06158,35.0,MALE,google,3,sem-brand,Windows Desktop,GB,0,0
+USER_08379,36.0,FEMALE,google,0,direct,Windows Desktop,IT,0,0
+USER_08638,39.0,FEMALE,basic,25,direct,iPhone,NDF,0,0
+USER_01479,29.0,UNKNOWN,basic,0,direct,Windows Desktop,US,0,1
+USER_01804,24.0,MALE,facebook,0,direct,Windows Desktop,NDF,0,0
+USER_09717,22.0,FEMALE,facebook,0,direct,Mac Desktop,other,0,0
+USER_00337,30.0,FEMALE,facebook,0,direct,Mac Desktop,FR,0,0
+USER_02443,41.0,FEMALE,basic,12,direct,iPhone,NDF,0,0
+USER_06662,43.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_08057,30.0,MALE,basic,0,sem-non-brand,Windows Desktop,NDF,0,0
+USER_04434,27.0,FEMALE,basic,0,direct,iPhone,ES,0,0
+USER_05440,27.0,MALE,basic,0,sem-non-brand,Mac Desktop,US,0,0
+USER_01794,36.0,UNKNOWN,google,0,direct,Mac Desktop,FR,0,1
+USER_03043,36.0,MALE,basic,0,direct,Mac Desktop,FR,0,0
+USER_02890,35.0,MALE,basic,3,sem-brand,Mac Desktop,NDF,0,0
+USER_03477,20.0,MALE,google,0,direct,Mac Desktop,NDF,0,0
+USER_09991,36.0,FEMALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_09423,35.0,FEMALE,basic,0,direct,Mac Desktop,DE,0,0
+USER_01761,42.0,OTHER,basic,0,sem-non-brand,Windows Desktop,GB,0,0
+USER_05037,,FEMALE,basic,0,sem-brand,Windows Desktop,NDF,1,0
+USER_04432,36.0,MALE,basic,0,other,Mac Desktop,DE,0,0
+USER_09135,28.0,UNKNOWN,basic,12,direct,Android Phone,NDF,0,1
+USER_08839,40.0,UNKNOWN,basic,12,other,iPhone,NDF,0,1
+USER_09977,24.0,FEMALE,facebook,0,sem-brand,iPhone,NDF,0,0
+USER_04066,36.0,MALE,facebook,0,direct,Mac Desktop,DE,0,0
+USER_00078,35.0,FEMALE,google,0,sem-brand,Mac Desktop,NDF,0,0
+USER_08125,43.0,FEMALE,basic,0,direct,Android Phone,NDF,0,0
+USER_09934,34.0,MALE,basic,0,sem-brand,Mac Desktop,DE,0,0
+USER_00364,41.0,FEMALE,basic,0,direct,Windows Desktop,GB,0,0
+USER_09978,22.0,FEMALE,basic,0,direct,iPhone,NDF,0,0
+USER_04374,44.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_03255,,FEMALE,basic,0,sem-non-brand,iPhone,NDF,1,0
+USER_02199,39.0,OTHER,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_08395,43.0,MALE,basic,3,direct,iPhone,NDF,0,0
+USER_00988,31.0,MALE,basic,25,direct,Mac Desktop,FR,0,0
+USER_03027,38.0,FEMALE,facebook,0,direct,Windows Desktop,US,0,0
+USER_06222,33.0,MALE,basic,0,direct,Windows Desktop,US,0,0
+USER_05980,23.0,MALE,facebook,0,direct,iPhone,US,0,0
+USER_04263,30.0,FEMALE,basic,0,sem-brand,Mac Desktop,US,0,0
+USER_09209,43.0,FEMALE,google,3,other,Android Phone,NDF,0,0
+USER_02683,42.0,FEMALE,basic,0,direct,Windows Desktop,IT,0,0
+USER_06455,22.0,FEMALE,basic,0,other,Mac Desktop,IT,0,0
+USER_05541,52.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_05384,43.0,MALE,facebook,0,direct,Mac Desktop,US,0,0
+USER_04876,19.0,MALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_09347,42.0,FEMALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_00615,35.0,MALE,basic,3,direct,Windows Desktop,US,0,0
+USER_01951,47.0,MALE,basic,0,sem-non-brand,Mac Desktop,NDF,0,0
+USER_05344,30.0,OTHER,facebook,0,direct,Windows Desktop,NDF,0,0
+USER_03390,26.0,OTHER,google,0,direct,Android Phone,NDF,0,0
+USER_08510,34.0,FEMALE,basic,0,direct,Windows Desktop,other,0,0
+USER_01634,30.0,FEMALE,basic,0,direct,Windows Desktop,other,0,0
+USER_04714,34.0,FEMALE,basic,0,sem-brand,Windows Desktop,other,0,0
+USER_04336,25.0,FEMALE,facebook,3,direct,Mac Desktop,NDF,0,0
+USER_05059,29.0,MALE,facebook,0,other,iPhone,ES,0,0
+USER_07084,30.0,UNKNOWN,basic,3,direct,iPhone,NDF,0,1
+USER_04157,28.0,FEMALE,facebook,3,direct,Windows Desktop,NDF,0,0
+USER_05670,61.0,MALE,facebook,0,sem-non-brand,Windows Desktop,NDF,0,0
+USER_03429,46.0,UNKNOWN,basic,0,sem-non-brand,iPhone,ES,0,1
+USER_03745,32.0,FEMALE,basic,12,direct,Windows Desktop,US,0,0
+USER_06751,25.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_02236,34.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_07789,46.0,FEMALE,basic,0,sem-brand,Android Phone,IT,0,0
+USER_09643,34.0,MALE,basic,0,direct,Android Phone,IT,0,0
+USER_06003,27.0,MALE,basic,0,direct,Android Phone,US,0,0
+USER_09533,27.0,MALE,basic,0,sem-brand,Mac Desktop,other,0,0
+USER_05018,35.0,FEMALE,basic,0,direct,Windows Desktop,US,0,0
+USER_09684,25.0,UNKNOWN,basic,0,direct,Mac Desktop,NDF,0,1
+USER_01435,37.0,FEMALE,google,0,sem-non-brand,Mac Desktop,US,0,0
+USER_02215,36.0,MALE,google,0,direct,Android Phone,US,0,0
+USER_02355,36.0,MALE,google,0,other,Windows Desktop,NDF,0,0
+USER_06706,29.0,MALE,basic,0,direct,Mac Desktop,IT,0,0
+USER_02593,34.0,FEMALE,basic,0,direct,Mac Desktop,US,0,0
+USER_04973,21.0,MALE,google,0,direct,Windows Desktop,US,0,0
+USER_01331,47.0,FEMALE,basic,0,sem-non-brand,Mac Desktop,NDF,0,0
+USER_04757,48.0,MALE,facebook,0,sem-brand,Android Phone,NDF,0,0
+USER_04134,32.0,OTHER,basic,12,direct,Mac Desktop,NDF,0,0
+USER_05840,37.0,MALE,basic,0,sem-brand,Windows Desktop,GB,0,0
+USER_08453,27.0,FEMALE,facebook,0,direct,Mac Desktop,NDF,0,0
+USER_04775,42.0,OTHER,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_04076,,FEMALE,basic,0,direct,iPhone,US,1,0
+USER_01927,30.0,OTHER,google,25,direct,Mac Desktop,NDF,0,0
+USER_07567,20.0,FEMALE,google,0,other,Windows Desktop,NDF,0,0
+USER_03336,18.0,FEMALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_08736,36.0,OTHER,facebook,0,sem-brand,Android Phone,US,0,0
+USER_03693,,MALE,basic,0,sem-brand,Android Phone,NDF,1,0
+USER_07888,40.0,UNKNOWN,basic,0,direct,Mac Desktop,FR,0,1
+USER_04105,36.0,FEMALE,basic,0,sem-brand,Mac Desktop,DE,0,0
+USER_04745,30.0,MALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_02246,24.0,FEMALE,basic,3,sem-non-brand,Android Phone,NDF,0,0
+USER_01721,31.0,FEMALE,basic,3,direct,Mac Desktop,NDF,0,0
+USER_03240,34.0,MALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_07983,54.0,MALE,facebook,0,direct,Mac Desktop,NDF,0,0
+USER_00234,57.0,MALE,basic,25,direct,Mac Desktop,ES,0,0
+USER_09206,45.0,MALE,basic,0,direct,Windows Desktop,US,0,0
+USER_08117,37.0,FEMALE,basic,0,direct,Mac Desktop,FR,0,0
+USER_06501,20.0,UNKNOWN,basic,0,direct,Android Phone,ES,0,1
+USER_01596,40.0,UNKNOWN,basic,0,direct,Android Phone,NDF,0,1
+USER_03781,30.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_01444,38.0,MALE,facebook,0,direct,Windows Desktop,NDF,0,0
+USER_05313,,FEMALE,google,0,sem-brand,Windows Desktop,US,1,0
+USER_07025,38.0,FEMALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_05212,32.0,MALE,basic,0,sem-brand,Windows Desktop,other,0,0
+USER_02688,42.0,FEMALE,google,0,direct,Windows Desktop,NDF,0,0
+USER_04462,,FEMALE,basic,0,direct,Mac Desktop,NDF,1,0
+USER_06325,18.0,MALE,basic,3,sem-non-brand,Mac Desktop,NDF,0,0
+USER_00744,39.0,MALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_06349,26.0,FEMALE,basic,0,sem-non-brand,Mac Desktop,NDF,0,0
+USER_02896,21.0,UNKNOWN,google,0,direct,Windows Desktop,US,0,1
+USER_03008,45.0,MALE,facebook,0,sem-non-brand,Android Phone,NDF,0,0
+USER_01108,27.0,FEMALE,facebook,0,direct,Mac Desktop,NDF,0,0
+USER_01183,26.0,MALE,basic,0,direct,Windows Desktop,other,0,0
+USER_05107,,FEMALE,basic,3,direct,Windows Desktop,US,1,0
+USER_02184,19.0,MALE,basic,0,direct,Windows Desktop,US,0,0
+USER_00736,36.0,FEMALE,basic,0,direct,Mac Desktop,US,0,0
+USER_07686,,MALE,facebook,0,direct,Mac Desktop,NDF,1,0
+USER_05879,37.0,FEMALE,basic,0,direct,Android Phone,US,0,0
+USER_05784,32.0,MALE,basic,0,direct,Windows Desktop,US,0,0
+USER_00760,27.0,FEMALE,basic,0,direct,Mac Desktop,US,0,0
+USER_01777,33.0,UNKNOWN,basic,3,direct,Mac Desktop,NDF,0,1
+USER_01658,22.0,MALE,basic,0,sem-brand,Mac Desktop,US,0,0
+USER_09111,39.0,FEMALE,basic,0,direct,Mac Desktop,FR,0,0
+USER_07394,34.0,FEMALE,facebook,0,direct,Mac Desktop,FR,0,0
+USER_04622,24.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_09471,51.0,UNKNOWN,basic,0,sem-non-brand,iPhone,NDF,0,1
+USER_08835,33.0,MALE,basic,0,direct,Windows Desktop,US,0,0
+USER_05580,54.0,FEMALE,basic,0,sem-brand,iPhone,US,0,0
+USER_06232,31.0,MALE,google,0,direct,Mac Desktop,NDF,0,0
+USER_06286,22.0,FEMALE,basic,0,sem-brand,Mac Desktop,NDF,0,0
+USER_06769,27.0,MALE,basic,0,direct,iPhone,NDF,0,0
+USER_01760,52.0,MALE,google,0,other,iPhone,US,0,0
+USER_06899,27.0,FEMALE,google,0,sem-non-brand,iPhone,NDF,0,0
+USER_08200,,FEMALE,basic,0,direct,iPhone,US,1,0
+USER_06673,,FEMALE,basic,0,direct,Mac Desktop,ES,1,0
+USER_00483,36.0,FEMALE,basic,0,sem-brand,Android Phone,ES,0,0
+USER_02048,30.0,MALE,basic,3,direct,Mac Desktop,NDF,0,0
+USER_00103,25.0,FEMALE,basic,0,sem-brand,iPhone,US,0,0
+USER_03030,16.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_00539,27.0,FEMALE,basic,0,direct,iPhone,NDF,0,0
+USER_00585,36.0,FEMALE,basic,0,sem-brand,Windows Desktop,GB,0,0
+USER_02992,34.0,FEMALE,facebook,0,direct,Mac Desktop,NDF,0,0
+USER_09539,,MALE,facebook,0,direct,Android Phone,NDF,1,0
+USER_05226,29.0,FEMALE,basic,0,sem-brand,Mac Desktop,NDF,0,0
+USER_04880,44.0,UNKNOWN,basic,0,direct,Windows Desktop,GB,0,1
+USER_01889,33.0,UNKNOWN,google,12,sem-non-brand,Windows Desktop,NDF,0,1
+USER_07679,24.0,UNKNOWN,basic,0,direct,Mac Desktop,NDF,0,1
+USER_02883,39.0,MALE,basic,0,direct,Windows Desktop,other,0,0
+USER_09461,33.0,FEMALE,basic,0,direct,Android Phone,GB,0,0
+USER_05489,29.0,MALE,facebook,0,sem-non-brand,Mac Desktop,GB,0,0
+USER_02200,53.0,MALE,basic,3,sem-brand,Windows Desktop,ES,0,0
+USER_09794,27.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_08047,26.0,FEMALE,basic,3,direct,Windows Desktop,GB,0,0
+USER_02524,44.0,FEMALE,basic,0,direct,Mac Desktop,FR,0,0
+USER_07606,24.0,MALE,basic,0,direct,Windows Desktop,IT,0,0
+USER_04420,49.0,FEMALE,facebook,0,sem-non-brand,Android Phone,US,0,0
+USER_05254,25.0,MALE,basic,25,direct,Android Phone,NDF,0,0
+USER_02031,23.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_03313,22.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_06626,38.0,OTHER,facebook,0,direct,Android Phone,ES,0,0
+USER_09628,,FEMALE,basic,0,sem-brand,Mac Desktop,NDF,1,0
+USER_09407,29.0,FEMALE,basic,0,sem-non-brand,Mac Desktop,NDF,0,0
+USER_09415,,FEMALE,basic,0,other,iPhone,NDF,1,0
+USER_08251,22.0,MALE,facebook,0,sem-brand,Windows Desktop,ES,0,0
+USER_01393,35.0,FEMALE,basic,0,direct,Mac Desktop,FR,0,0
+USER_00817,43.0,UNKNOWN,basic,0,direct,Mac Desktop,NDF,0,1
+USER_07782,35.0,UNKNOWN,basic,0,direct,Mac Desktop,NDF,0,1
+USER_02086,28.0,UNKNOWN,facebook,0,sem-brand,Windows Desktop,NDF,0,1
+USER_08871,34.0,UNKNOWN,basic,0,direct,Mac Desktop,DE,0,1
+USER_03016,27.0,MALE,basic,0,sem-non-brand,Windows Desktop,NDF,0,0
+USER_02837,,UNKNOWN,basic,0,direct,Android Phone,NDF,1,1
+USER_08105,22.0,UNKNOWN,facebook,0,sem-brand,iPhone,NDF,0,1
+USER_06094,34.0,FEMALE,basic,0,sem-brand,iPhone,IT,0,0
+USER_01854,45.0,MALE,basic,3,sem-non-brand,iPhone,NDF,0,0
+USER_05787,55.0,MALE,basic,3,sem-brand,Windows Desktop,other,0,0
+USER_05186,29.0,FEMALE,basic,0,direct,Windows Desktop,IT,0,0
+USER_04166,30.0,MALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_04894,22.0,MALE,google,0,other,Windows Desktop,US,0,0
+USER_08728,38.0,MALE,basic,0,direct,Android Phone,US,0,0
+USER_01614,32.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_07015,38.0,MALE,basic,0,direct,Mac Desktop,DE,0,0
+USER_05159,21.0,FEMALE,basic,0,other,Mac Desktop,NDF,0,0
+USER_06272,32.0,MALE,basic,12,direct,Windows Desktop,IT,0,0
+USER_09058,27.0,MALE,google,0,sem-brand,Android Phone,NDF,0,0
+USER_07223,68.0,MALE,facebook,0,sem-brand,Windows Desktop,US,0,0
+USER_03791,29.0,UNKNOWN,basic,0,sem-brand,iPhone,NDF,0,1
+USER_08476,35.0,FEMALE,facebook,0,direct,iPhone,US,0,0
+USER_07005,42.0,MALE,basic,0,direct,Mac Desktop,FR,0,0
+USER_01055,26.0,OTHER,facebook,0,direct,Windows Desktop,NDF,0,0
+USER_01454,40.0,FEMALE,basic,0,direct,iPhone,NDF,0,0
+USER_03293,37.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_04758,26.0,FEMALE,basic,0,direct,Windows Desktop,US,0,0
+USER_08643,36.0,MALE,basic,25,sem-non-brand,Windows Desktop,NDF,0,0
+USER_07044,,FEMALE,basic,3,direct,iPhone,IT,1,0
+USER_09402,26.0,FEMALE,facebook,0,direct,Windows Desktop,GB,0,0
+USER_08391,32.0,UNKNOWN,basic,0,sem-non-brand,Mac Desktop,FR,0,1
+USER_06562,31.0,MALE,basic,0,sem-brand,Mac Desktop,FR,0,0
+USER_01425,22.0,MALE,google,0,direct,iPhone,NDF,0,0
+USER_00878,33.0,UNKNOWN,basic,0,other,Windows Desktop,NDF,0,1
+USER_02287,31.0,MALE,basic,3,sem-brand,iPhone,ES,0,0
+USER_06939,19.0,UNKNOWN,basic,0,direct,Mac Desktop,NDF,0,1
+USER_01931,39.0,FEMALE,basic,0,sem-non-brand,Mac Desktop,NDF,0,0
+USER_06211,35.0,UNKNOWN,basic,0,sem-brand,Mac Desktop,US,0,1
+USER_07648,23.0,MALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_08590,50.0,MALE,basic,0,direct,Windows Desktop,US,0,0
+USER_00047,45.0,MALE,facebook,0,other,Android Phone,NDF,0,0
+USER_01182,44.0,FEMALE,basic,0,direct,iPhone,NDF,0,0
+USER_09079,25.0,UNKNOWN,facebook,0,direct,Mac Desktop,GB,0,1
+USER_03346,30.0,FEMALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_08897,,FEMALE,google,0,direct,Windows Desktop,US,1,0
+USER_03085,37.0,MALE,basic,0,other,iPhone,NDF,0,0
+USER_09657,23.0,FEMALE,basic,0,direct,iPhone,NDF,0,0
+USER_03608,19.0,MALE,basic,3,sem-brand,Windows Desktop,US,0,0
+USER_04862,26.0,MALE,facebook,3,direct,Mac Desktop,NDF,0,0
+USER_01254,47.0,OTHER,facebook,0,other,Android Phone,NDF,0,0
+USER_03555,33.0,FEMALE,facebook,25,sem-non-brand,Android Phone,NDF,0,0
+USER_02698,40.0,UNKNOWN,basic,3,sem-brand,iPhone,US,0,1
+USER_07256,33.0,FEMALE,basic,0,direct,iPhone,NDF,0,0
+USER_01029,22.0,FEMALE,basic,0,other,iPhone,US,0,0
+USER_08270,27.0,FEMALE,facebook,0,sem-brand,Mac Desktop,NDF,0,0
+USER_03204,23.0,FEMALE,basic,3,direct,Mac Desktop,GB,0,0
+USER_06128,25.0,FEMALE,basic,0,sem-brand,Android Phone,US,0,0
+USER_01114,35.0,FEMALE,facebook,0,sem-brand,Mac Desktop,DE,0,0
+USER_04789,,FEMALE,facebook,0,direct,iPhone,NDF,1,0
+USER_05369,51.0,MALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_02559,44.0,MALE,basic,0,sem-brand,Windows Desktop,ES,0,0
+USER_03861,,FEMALE,basic,0,sem-brand,Mac Desktop,NDF,1,0
+USER_05167,32.0,UNKNOWN,basic,0,sem-brand,iPhone,NDF,0,1
+USER_09132,36.0,MALE,basic,0,direct,Mac Desktop,US,0,0
+USER_09985,29.0,MALE,basic,12,sem-non-brand,Windows Desktop,NDF,0,0
+USER_05673,65.0,MALE,basic,0,sem-brand,Mac Desktop,GB,0,0
+USER_05773,24.0,FEMALE,basic,0,other,Windows Desktop,IT,0,0
+USER_05699,40.0,FEMALE,basic,0,direct,iPhone,NDF,0,0
+USER_00775,26.0,FEMALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_02103,46.0,MALE,basic,0,direct,Mac Desktop,IT,0,0
+USER_00007,42.0,MALE,basic,0,direct,Mac Desktop,FR,0,0
+USER_08925,41.0,UNKNOWN,basic,0,sem-non-brand,Android Phone,other,0,1
+USER_02140,35.0,MALE,basic,0,direct,Windows Desktop,other,0,0
+USER_04823,33.0,FEMALE,basic,0,direct,iPhone,IT,0,0
+USER_09796,33.0,OTHER,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_05970,44.0,MALE,basic,0,sem-non-brand,Windows Desktop,NDF,0,0
+USER_01861,42.0,OTHER,facebook,0,direct,Windows Desktop,NDF,0,0
+USER_00389,27.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_00524,25.0,UNKNOWN,facebook,3,sem-brand,iPhone,ES,0,1
+USER_09902,21.0,OTHER,basic,0,sem-brand,iPhone,US,0,0
+USER_03955,27.0,FEMALE,basic,0,sem-brand,Android Phone,NDF,0,0
+USER_00020,50.0,FEMALE,basic,0,sem-brand,Windows Desktop,IT,0,0
+USER_04090,21.0,FEMALE,google,0,other,Mac Desktop,NDF,0,0
+USER_02869,,FEMALE,basic,0,direct,iPhone,IT,1,0
+USER_00506,27.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_07246,32.0,FEMALE,basic,0,direct,Android Phone,IT,0,0
+USER_09941,53.0,FEMALE,google,0,direct,Android Phone,other,0,0
+USER_06829,29.0,FEMALE,basic,0,direct,Mac Desktop,other,0,0
+USER_09418,,FEMALE,basic,0,direct,Windows Desktop,NDF,1,0
+USER_09024,34.0,UNKNOWN,basic,0,direct,iPhone,NDF,0,1
+USER_04412,22.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_03906,48.0,UNKNOWN,basic,0,sem-non-brand,iPhone,NDF,0,1
+USER_01739,52.0,OTHER,facebook,3,direct,Windows Desktop,GB,0,0
+USER_03706,28.0,FEMALE,basic,12,direct,Mac Desktop,other,0,0
+USER_06922,38.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_02284,28.0,FEMALE,facebook,0,direct,Mac Desktop,NDF,0,0
+USER_07440,53.0,UNKNOWN,google,0,other,Windows Desktop,IT,0,1
+USER_06429,28.0,FEMALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_01868,,MALE,basic,0,direct,Mac Desktop,GB,1,0
+USER_00238,,FEMALE,basic,0,other,Mac Desktop,US,1,0
+USER_01807,,FEMALE,basic,0,sem-brand,Mac Desktop,other,1,0
+USER_05182,31.0,MALE,basic,0,direct,Android Phone,NDF,0,0
+USER_01984,44.0,MALE,basic,0,sem-brand,Mac Desktop,DE,0,0
+USER_04896,25.0,FEMALE,basic,3,direct,Mac Desktop,other,0,0
+USER_01388,34.0,MALE,facebook,0,sem-brand,Windows Desktop,NDF,0,0
+USER_07449,31.0,FEMALE,basic,0,sem-non-brand,Android Phone,NDF,0,0
+USER_09548,27.0,MALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_05047,33.0,FEMALE,google,12,direct,Mac Desktop,US,0,0
+USER_05758,28.0,FEMALE,google,3,direct,Windows Desktop,other,0,0
+USER_03154,22.0,FEMALE,google,0,direct,iPhone,NDF,0,0
+USER_03649,29.0,MALE,google,0,sem-brand,Mac Desktop,US,0,0
+USER_06547,25.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_02757,25.0,FEMALE,basic,0,other,iPhone,ES,0,0
+USER_09864,35.0,FEMALE,basic,25,direct,Windows Desktop,NDF,0,0
+USER_09395,41.0,FEMALE,facebook,25,sem-non-brand,Android Phone,US,0,0
+USER_05563,42.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_05035,60.0,FEMALE,basic,0,sem-brand,Windows Desktop,IT,0,0
+USER_05574,23.0,FEMALE,basic,0,sem-brand,Windows Desktop,US,0,0
+USER_07625,43.0,MALE,basic,0,direct,Mac Desktop,FR,0,0
+USER_04351,34.0,FEMALE,basic,0,direct,Android Phone,NDF,0,0
+USER_00490,33.0,FEMALE,basic,0,direct,Windows Desktop,US,0,0
+USER_06893,38.0,FEMALE,facebook,0,direct,Windows Desktop,GB,0,0
+USER_07171,31.0,MALE,basic,0,sem-non-brand,iPhone,ES,0,0
+USER_00284,57.0,FEMALE,basic,0,direct,iPhone,US,0,0
+USER_08578,19.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_05743,,MALE,basic,0,sem-brand,Mac Desktop,US,1,0
+USER_07584,41.0,MALE,google,0,other,Windows Desktop,IT,0,0
+USER_09258,64.0,MALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_01366,33.0,UNKNOWN,basic,0,sem-non-brand,Mac Desktop,FR,0,1
+USER_07870,50.0,FEMALE,basic,0,direct,Android Phone,IT,0,0
+USER_05598,35.0,MALE,basic,0,direct,Mac Desktop,DE,0,0
+USER_03669,37.0,MALE,basic,0,direct,Android Phone,US,0,0
+USER_07161,33.0,UNKNOWN,facebook,0,direct,iPhone,other,0,1
+USER_09541,27.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_03547,50.0,MALE,facebook,0,direct,Android Phone,NDF,0,0
+USER_09519,29.0,FEMALE,basic,3,sem-brand,Windows Desktop,NDF,0,0
+USER_09038,42.0,MALE,basic,0,other,Android Phone,GB,0,0
+USER_07159,29.0,FEMALE,basic,0,direct,Mac Desktop,GB,0,0
+USER_07610,36.0,UNKNOWN,basic,0,direct,Mac Desktop,FR,0,1
+USER_01585,41.0,FEMALE,basic,0,direct,iPhone,NDF,0,0
+USER_02391,23.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_07915,34.0,MALE,facebook,0,other,Windows Desktop,ES,0,0
+USER_01816,20.0,FEMALE,basic,0,other,Windows Desktop,other,0,0
+USER_08933,23.0,FEMALE,basic,0,direct,Mac Desktop,GB,0,0
+USER_07141,38.0,MALE,google,25,direct,Mac Desktop,DE,0,0
+USER_06520,30.0,FEMALE,facebook,3,sem-non-brand,Windows Desktop,US,0,0
+USER_02100,38.0,FEMALE,basic,0,other,Mac Desktop,FR,0,0
+USER_08321,19.0,MALE,facebook,0,sem-brand,Windows Desktop,US,0,0
+USER_06768,52.0,MALE,basic,0,sem-brand,Windows Desktop,US,0,0
+USER_06228,43.0,FEMALE,basic,25,sem-non-brand,Windows Desktop,NDF,0,0
+USER_06269,39.0,UNKNOWN,basic,3,direct,Windows Desktop,NDF,0,1
+USER_07241,29.0,FEMALE,basic,0,direct,Mac Desktop,ES,0,0
+USER_09555,,MALE,basic,0,other,iPhone,other,1,0
+USER_03116,31.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_00004,,FEMALE,basic,0,sem-brand,Windows Desktop,US,1,0
+USER_05562,27.0,FEMALE,basic,3,sem-brand,Mac Desktop,ES,0,0
+USER_09204,,MALE,facebook,0,sem-brand,Mac Desktop,NDF,1,0
+USER_07190,,MALE,basic,0,direct,iPhone,US,1,0
+USER_05987,,FEMALE,facebook,3,sem-non-brand,iPhone,NDF,1,0
+USER_03135,38.0,UNKNOWN,facebook,0,sem-brand,Mac Desktop,FR,0,1
+USER_03383,45.0,FEMALE,facebook,3,other,Windows Desktop,NDF,0,0
+USER_02009,44.0,UNKNOWN,google,3,sem-brand,Mac Desktop,US,0,1
+USER_06387,18.0,OTHER,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_05564,34.0,MALE,google,3,direct,iPhone,GB,0,0
+USER_09803,,FEMALE,basic,12,direct,Mac Desktop,NDF,1,0
+USER_01422,29.0,FEMALE,basic,3,direct,iPhone,US,0,0
+USER_05508,31.0,OTHER,google,0,other,Windows Desktop,NDF,0,0
+USER_03136,44.0,FEMALE,basic,3,sem-non-brand,iPhone,NDF,0,0
+USER_03965,37.0,FEMALE,facebook,12,direct,Windows Desktop,NDF,0,0
+USER_06440,,MALE,basic,25,sem-brand,iPhone,other,1,0
+USER_05609,34.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_00281,41.0,MALE,google,0,sem-non-brand,iPhone,NDF,0,0
+USER_08756,28.0,MALE,basic,0,direct,Windows Desktop,US,0,0
+USER_07975,,FEMALE,facebook,0,direct,iPhone,NDF,1,0
+USER_02288,,OTHER,basic,12,direct,Windows Desktop,IT,1,0
+USER_01872,30.0,MALE,basic,0,direct,Android Phone,NDF,0,0
+USER_08843,30.0,MALE,basic,0,direct,iPhone,other,0,0
+USER_05473,28.0,MALE,facebook,0,direct,Windows Desktop,US,0,0
+USER_03361,25.0,OTHER,basic,3,other,iPhone,NDF,0,0
+USER_07726,19.0,FEMALE,basic,0,sem-non-brand,Mac Desktop,NDF,0,0
+USER_07572,26.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_09517,47.0,MALE,basic,12,direct,Android Phone,NDF,0,0
+USER_06858,27.0,MALE,basic,0,direct,iPhone,ES,0,0
+USER_04165,42.0,FEMALE,basic,0,sem-brand,Windows Desktop,US,0,0
+USER_06340,23.0,UNKNOWN,basic,0,sem-non-brand,Windows Desktop,US,0,1
+USER_09705,25.0,UNKNOWN,facebook,0,direct,Windows Desktop,NDF,0,1
+USER_02120,60.0,MALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_06019,44.0,MALE,basic,0,other,Windows Desktop,US,0,0
+USER_08232,21.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_05202,35.0,MALE,facebook,0,sem-non-brand,Windows Desktop,ES,0,0
+USER_09593,46.0,UNKNOWN,basic,0,sem-brand,Windows Desktop,NDF,0,1
+USER_03457,,UNKNOWN,basic,0,direct,Mac Desktop,ES,1,1
+USER_04300,29.0,FEMALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_01678,44.0,OTHER,basic,0,sem-brand,Windows Desktop,other,0,0
+USER_03860,29.0,OTHER,basic,25,sem-brand,iPhone,NDF,0,0
+USER_00861,27.0,MALE,basic,0,sem-brand,Mac Desktop,US,0,0
+USER_03581,48.0,OTHER,basic,3,direct,Mac Desktop,US,0,0
+USER_02032,39.0,MALE,basic,0,sem-non-brand,Mac Desktop,US,0,0
+USER_08889,31.0,FEMALE,basic,0,other,Windows Desktop,ES,0,0
+USER_05559,42.0,FEMALE,basic,3,sem-non-brand,Android Phone,NDF,0,0
+USER_02601,40.0,FEMALE,basic,0,direct,Windows Desktop,IT,0,0
+USER_02112,34.0,OTHER,basic,0,direct,Windows Desktop,US,0,0
+USER_08849,41.0,FEMALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_05467,36.0,UNKNOWN,basic,0,direct,Windows Desktop,NDF,0,1
+USER_04931,19.0,MALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_01222,40.0,UNKNOWN,basic,0,sem-brand,iPhone,IT,0,1
+USER_01071,39.0,FEMALE,google,0,direct,Windows Desktop,US,0,0
+USER_09143,29.0,FEMALE,basic,12,direct,Mac Desktop,other,0,0
+USER_06074,52.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_07695,50.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_00569,,FEMALE,facebook,0,direct,iPhone,NDF,1,0
+USER_00619,36.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_09224,27.0,UNKNOWN,basic,0,sem-non-brand,Mac Desktop,ES,0,1
+USER_02557,34.0,MALE,google,0,direct,iPhone,other,0,0
+USER_08880,20.0,MALE,basic,0,sem-brand,iPhone,NDF,0,0
+USER_07295,29.0,FEMALE,basic,0,sem-brand,iPhone,NDF,0,0
+USER_00791,36.0,UNKNOWN,basic,0,direct,Mac Desktop,NDF,0,1
+USER_06807,41.0,MALE,facebook,0,sem-non-brand,iPhone,NDF,0,0
+USER_08943,37.0,MALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_03873,27.0,FEMALE,basic,0,sem-brand,Windows Desktop,US,0,0
+USER_07060,50.0,MALE,google,0,sem-brand,Windows Desktop,NDF,0,0
+USER_08236,44.0,FEMALE,basic,0,other,Windows Desktop,NDF,0,0
+USER_09826,25.0,MALE,facebook,0,direct,Windows Desktop,US,0,0
+USER_07872,65.0,MALE,facebook,0,direct,Android Phone,NDF,0,0
+USER_04234,26.0,MALE,basic,0,direct,iPhone,NDF,0,0
+USER_04144,27.0,MALE,basic,0,sem-non-brand,Windows Desktop,NDF,0,0
+USER_07831,42.0,MALE,basic,3,sem-brand,Windows Desktop,GB,0,0
+USER_02763,27.0,UNKNOWN,facebook,0,direct,Windows Desktop,US,0,1
+USER_02221,26.0,FEMALE,basic,0,direct,iPhone,ES,0,0
+USER_03387,34.0,MALE,google,12,direct,Android Phone,NDF,0,0
+USER_09850,26.0,FEMALE,basic,0,direct,Windows Desktop,US,0,0
+USER_08703,41.0,FEMALE,facebook,0,direct,Windows Desktop,US,0,0
+USER_07588,38.0,MALE,basic,3,sem-brand,Windows Desktop,NDF,0,0
+USER_03772,25.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_09729,38.0,UNKNOWN,google,0,direct,Windows Desktop,NDF,0,1
+USER_01215,47.0,MALE,basic,0,sem-brand,Mac Desktop,NDF,0,0
+USER_03840,,FEMALE,basic,12,direct,Windows Desktop,NDF,1,0
+USER_05665,,FEMALE,basic,0,sem-brand,Mac Desktop,NDF,1,0
+USER_07026,37.0,FEMALE,basic,0,direct,Mac Desktop,DE,0,0
+USER_08097,46.0,FEMALE,basic,0,sem-non-brand,iPhone,NDF,0,0
+USER_07127,40.0,MALE,google,0,other,iPhone,other,0,0
+USER_09839,20.0,MALE,facebook,0,direct,Windows Desktop,ES,0,0
+USER_07253,44.0,FEMALE,basic,0,sem-brand,Mac Desktop,FR,0,0
+USER_07291,26.0,UNKNOWN,basic,25,direct,Windows Desktop,GB,0,1
+USER_06159,26.0,UNKNOWN,basic,12,other,Windows Desktop,NDF,0,1
+USER_08020,17.0,UNKNOWN,basic,0,direct,Mac Desktop,other,0,1
+USER_05169,21.0,FEMALE,google,0,direct,Windows Desktop,NDF,0,0
+USER_05248,43.0,FEMALE,basic,0,other,Windows Desktop,NDF,0,0
+USER_02888,29.0,FEMALE,google,0,direct,Windows Desktop,NDF,0,0
+USER_02668,40.0,MALE,basic,3,direct,Windows Desktop,NDF,0,0
+USER_07108,17.0,OTHER,basic,0,direct,Windows Desktop,other,0,0
+USER_03904,51.0,FEMALE,google,3,direct,Windows Desktop,IT,0,0
+USER_08543,33.0,OTHER,basic,0,other,Windows Desktop,NDF,0,0
+USER_06365,53.0,MALE,facebook,0,direct,iPhone,GB,0,0
+USER_09459,,MALE,basic,0,other,Windows Desktop,other,1,0
+USER_03419,28.0,UNKNOWN,basic,0,sem-brand,Windows Desktop,NDF,0,1
+USER_01593,43.0,FEMALE,facebook,0,sem-brand,Windows Desktop,NDF,0,0
+USER_06224,39.0,MALE,basic,25,direct,Mac Desktop,NDF,0,0
+USER_02141,34.0,MALE,google,0,other,Windows Desktop,NDF,0,0
+USER_07152,24.0,FEMALE,facebook,0,direct,Mac Desktop,ES,0,0
+USER_06862,55.0,MALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_07912,31.0,MALE,basic,0,sem-non-brand,Mac Desktop,DE,0,0
+USER_06861,54.0,UNKNOWN,google,3,direct,Android Phone,other,0,1
+USER_09758,32.0,MALE,google,0,direct,Mac Desktop,FR,0,0
+USER_04496,25.0,MALE,basic,0,sem-brand,Windows Desktop,other,0,0
+USER_04222,33.0,MALE,basic,3,sem-brand,Windows Desktop,NDF,0,0
+USER_02759,,MALE,basic,0,sem-brand,Windows Desktop,NDF,1,0
+USER_01175,,FEMALE,facebook,0,direct,Windows Desktop,US,1,0
+USER_09138,27.0,MALE,basic,0,direct,Windows Desktop,other,0,0
+USER_05303,,UNKNOWN,basic,0,direct,Android Phone,US,1,1
+USER_04816,48.0,MALE,basic,0,direct,iPhone,other,0,0
+USER_00704,26.0,MALE,basic,25,direct,iPhone,NDF,0,0
+USER_07275,26.0,OTHER,basic,3,direct,Mac Desktop,NDF,0,0
+USER_09827,27.0,MALE,basic,0,sem-brand,Mac Desktop,GB,0,0
+USER_06407,,FEMALE,basic,0,sem-brand,Windows Desktop,US,1,0
+USER_03498,31.0,MALE,basic,0,sem-brand,Mac Desktop,FR,0,0
+USER_03002,29.0,UNKNOWN,basic,3,direct,Mac Desktop,other,0,1
+USER_04390,39.0,FEMALE,google,0,direct,Windows Desktop,NDF,0,0
+USER_06608,25.0,MALE,basic,0,sem-brand,Mac Desktop,GB,0,0
+USER_06978,51.0,UNKNOWN,basic,0,other,iPhone,NDF,0,1
+USER_07327,38.0,FEMALE,basic,0,sem-non-brand,Windows Desktop,ES,0,0
+USER_03758,37.0,FEMALE,facebook,0,direct,Android Phone,NDF,0,0
+USER_02326,21.0,MALE,basic,0,sem-non-brand,Android Phone,NDF,0,0
+USER_03578,25.0,MALE,facebook,25,direct,Android Phone,NDF,0,0
+USER_07744,38.0,MALE,basic,0,other,Mac Desktop,DE,0,0
+USER_00973,26.0,MALE,basic,0,direct,iPhone,NDF,0,0
+USER_07658,42.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_02051,24.0,MALE,facebook,0,sem-brand,Mac Desktop,NDF,0,0
+USER_07843,29.0,MALE,basic,0,sem-non-brand,Windows Desktop,NDF,0,0
+USER_06541,14.0,MALE,facebook,0,direct,Windows Desktop,NDF,0,0
+USER_09805,19.0,MALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_01880,44.0,MALE,basic,0,sem-brand,iPhone,NDF,0,0
+USER_09428,22.0,MALE,basic,12,direct,Windows Desktop,other,0,0
+USER_03196,41.0,FEMALE,basic,25,sem-brand,Windows Desktop,US,0,0
+USER_02570,34.0,MALE,google,0,sem-brand,iPhone,NDF,0,0
+USER_08497,47.0,MALE,basic,0,direct,Windows Desktop,US,0,0
+USER_04126,,FEMALE,basic,0,direct,Mac Desktop,US,1,0
+USER_07917,28.0,FEMALE,facebook,0,direct,iPhone,NDF,0,0
+USER_08621,41.0,FEMALE,basic,0,other,Mac Desktop,FR,0,0
+USER_01654,37.0,MALE,google,0,sem-non-brand,Mac Desktop,FR,0,0
+USER_04605,31.0,MALE,basic,0,sem-non-brand,Windows Desktop,other,0,0
+USER_06436,19.0,FEMALE,facebook,0,direct,Mac Desktop,NDF,0,0
+USER_00947,26.0,FEMALE,basic,0,direct,Windows Desktop,US,0,0
+USER_05142,45.0,FEMALE,google,0,direct,iPhone,GB,0,0
+USER_09310,55.0,FEMALE,basic,0,direct,iPhone,GB,0,0
+USER_07147,14.0,MALE,basic,0,direct,Windows Desktop,US,0,0
+USER_08815,34.0,MALE,facebook,3,sem-brand,Mac Desktop,NDF,0,0
+USER_05679,28.0,OTHER,basic,0,direct,Mac Desktop,NDF,0,0
+USER_06458,26.0,OTHER,basic,0,direct,Windows Desktop,US,0,0
+USER_06641,53.0,FEMALE,google,3,sem-brand,Mac Desktop,US,0,0
+USER_09394,35.0,FEMALE,basic,0,sem-brand,iPhone,NDF,0,0
+USER_05172,29.0,FEMALE,facebook,0,direct,Windows Desktop,GB,0,0
+USER_05306,32.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_09888,36.0,FEMALE,basic,3,sem-brand,Mac Desktop,NDF,0,0
+USER_02921,42.0,MALE,basic,0,sem-non-brand,Mac Desktop,US,0,0
+USER_00756,39.0,MALE,facebook,0,direct,Mac Desktop,NDF,0,0
+USER_05923,34.0,FEMALE,basic,0,direct,Mac Desktop,DE,0,0
+USER_09907,59.0,MALE,facebook,0,sem-non-brand,Android Phone,IT,0,0
+USER_06802,,MALE,basic,0,direct,Windows Desktop,NDF,1,0
+USER_01748,36.0,FEMALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_08213,23.0,OTHER,basic,0,sem-non-brand,Mac Desktop,other,0,0
+USER_02091,37.0,FEMALE,google,0,direct,Windows Desktop,NDF,0,0
+USER_05286,,FEMALE,basic,0,direct,Windows Desktop,NDF,1,0
+USER_01831,36.0,MALE,basic,3,other,Windows Desktop,other,0,0
+USER_05241,24.0,MALE,basic,0,other,Windows Desktop,NDF,0,0
+USER_04163,23.0,FEMALE,basic,0,sem-non-brand,Windows Desktop,US,0,0
+USER_03276,46.0,OTHER,basic,3,sem-non-brand,Windows Desktop,US,0,0
+USER_05689,32.0,UNKNOWN,basic,0,other,iPhone,IT,0,1
+USER_02465,43.0,MALE,basic,3,sem-brand,Mac Desktop,DE,0,0
+USER_01977,44.0,MALE,facebook,3,sem-brand,Windows Desktop,other,0,0
+USER_09076,30.0,FEMALE,basic,0,direct,Windows Desktop,other,0,0
+USER_01419,39.0,MALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_08610,28.0,FEMALE,basic,0,direct,Mac Desktop,other,0,0
+USER_02624,,UNKNOWN,basic,0,other,Windows Desktop,NDF,1,1
+USER_09070,44.0,UNKNOWN,basic,0,sem-brand,Mac Desktop,DE,0,1
+USER_04957,45.0,UNKNOWN,basic,0,direct,Mac Desktop,DE,0,1
+USER_05575,22.0,UNKNOWN,basic,0,sem-brand,Android Phone,ES,0,1
+USER_04688,18.0,MALE,basic,0,direct,Windows Desktop,US,0,0
+USER_07757,59.0,FEMALE,basic,3,direct,iPhone,NDF,0,0
+USER_02736,30.0,OTHER,basic,0,sem-non-brand,Mac Desktop,DE,0,0
+USER_02161,36.0,MALE,basic,0,direct,Windows Desktop,US,0,0
+USER_04067,37.0,MALE,basic,0,sem-brand,iPhone,NDF,0,0
+USER_06296,23.0,FEMALE,facebook,3,sem-non-brand,Windows Desktop,ES,0,0
+USER_07012,43.0,MALE,basic,0,other,Windows Desktop,US,0,0
+USER_03736,28.0,MALE,basic,12,direct,iPhone,ES,0,0
+USER_07213,29.0,MALE,google,3,sem-brand,Mac Desktop,NDF,0,0
+USER_06359,27.0,FEMALE,basic,0,direct,iPhone,NDF,0,0
+USER_09943,54.0,FEMALE,facebook,0,sem-non-brand,iPhone,US,0,0
+USER_08549,30.0,UNKNOWN,basic,3,direct,Mac Desktop,US,0,1
+USER_00219,34.0,FEMALE,basic,0,sem-brand,Android Phone,IT,0,0
+USER_05545,25.0,FEMALE,basic,0,sem-brand,Windows Desktop,US,0,0
+USER_06366,,FEMALE,google,0,other,Android Phone,ES,1,0
+USER_06336,41.0,MALE,basic,0,direct,Mac Desktop,DE,0,0
+USER_00691,46.0,UNKNOWN,facebook,0,sem-brand,Mac Desktop,GB,0,1
+USER_04179,30.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_00579,46.0,FEMALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_07128,36.0,UNKNOWN,basic,0,sem-brand,Mac Desktop,FR,0,1
+USER_03159,37.0,MALE,facebook,0,sem-brand,Windows Desktop,NDF,0,0
+USER_04306,27.0,UNKNOWN,facebook,0,sem-brand,Mac Desktop,NDF,0,1
+USER_05929,,FEMALE,basic,3,direct,Windows Desktop,US,1,0
+USER_03450,,UNKNOWN,facebook,0,sem-brand,Mac Desktop,NDF,1,1
+USER_05596,38.0,UNKNOWN,basic,0,direct,Android Phone,other,0,1
+USER_08471,,FEMALE,facebook,0,direct,Android Phone,IT,1,0
+USER_09324,18.0,FEMALE,basic,0,direct,iPhone,US,0,0
+USER_06417,50.0,MALE,basic,0,direct,iPhone,other,0,0
+USER_04780,37.0,MALE,basic,0,direct,iPhone,NDF,0,0
+USER_04923,49.0,FEMALE,google,0,sem-brand,Android Phone,ES,0,0
+USER_05104,38.0,FEMALE,basic,0,direct,iPhone,NDF,0,0
+USER_00867,37.0,MALE,basic,0,direct,Windows Desktop,US,0,0
+USER_07495,28.0,MALE,facebook,12,other,Windows Desktop,ES,0,0
+USER_06490,35.0,MALE,basic,12,sem-non-brand,Mac Desktop,FR,0,0
+USER_09898,51.0,UNKNOWN,basic,3,sem-non-brand,Windows Desktop,US,0,1
+USER_09998,39.0,UNKNOWN,basic,25,direct,Windows Desktop,US,0,1
+USER_06607,36.0,FEMALE,facebook,0,sem-brand,Mac Desktop,US,0,0
+USER_04691,36.0,FEMALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_02782,20.0,MALE,basic,0,direct,iPhone,NDF,0,0
+USER_07715,41.0,MALE,basic,0,other,Windows Desktop,US,0,0
+USER_08683,43.0,FEMALE,facebook,0,direct,Mac Desktop,DE,0,0
+USER_03883,24.0,UNKNOWN,basic,12,sem-brand,Mac Desktop,NDF,0,1
+USER_08226,29.0,MALE,basic,0,sem-brand,Mac Desktop,NDF,0,0
+USER_01594,18.0,MALE,basic,25,direct,Windows Desktop,NDF,0,0
+USER_00701,,FEMALE,facebook,0,direct,Mac Desktop,NDF,1,0
+USER_03207,43.0,UNKNOWN,basic,0,direct,iPhone,NDF,0,1
+USER_08188,41.0,OTHER,facebook,0,sem-non-brand,iPhone,NDF,0,0
+USER_09154,30.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_01321,39.0,MALE,basic,0,sem-brand,iPhone,ES,0,0
+USER_09025,41.0,MALE,basic,3,direct,Windows Desktop,other,0,0
+USER_07420,29.0,MALE,basic,25,direct,Android Phone,NDF,0,0
+USER_00931,54.0,FEMALE,basic,0,sem-brand,Windows Desktop,other,0,0
+USER_07137,27.0,OTHER,basic,3,sem-non-brand,Windows Desktop,NDF,0,0
+USER_03726,39.0,MALE,basic,0,direct,Mac Desktop,US,0,0
+USER_03358,39.0,FEMALE,facebook,3,direct,Android Phone,US,0,0
+USER_07581,41.0,FEMALE,facebook,0,direct,iPhone,NDF,0,0
+USER_01605,23.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_09383,22.0,MALE,facebook,0,direct,Windows Desktop,GB,0,0
+USER_06816,22.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_09785,36.0,MALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_07328,18.0,MALE,basic,0,sem-non-brand,Windows Desktop,NDF,0,0
+USER_01817,26.0,MALE,facebook,0,sem-brand,Mac Desktop,NDF,0,0
+USER_02172,30.0,FEMALE,basic,0,direct,Windows Desktop,IT,0,0
+USER_01453,,MALE,basic,0,direct,Windows Desktop,NDF,1,0
+USER_03889,43.0,FEMALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_09060,32.0,UNKNOWN,basic,0,direct,Mac Desktop,DE,0,1
+USER_09387,53.0,OTHER,basic,0,direct,iPhone,NDF,0,0
+USER_02897,52.0,FEMALE,basic,0,sem-brand,Windows Desktop,US,0,0
+USER_04785,30.0,FEMALE,facebook,12,direct,Windows Desktop,NDF,0,0
+USER_09048,31.0,OTHER,facebook,0,direct,Windows Desktop,NDF,0,0
+USER_01494,50.0,MALE,basic,0,sem-non-brand,Mac Desktop,NDF,0,0
+USER_05084,44.0,MALE,facebook,0,sem-non-brand,Windows Desktop,GB,0,0
+USER_04489,34.0,FEMALE,basic,0,direct,iPhone,NDF,0,0
+USER_08090,22.0,UNKNOWN,basic,12,direct,Windows Desktop,US,0,1
+USER_07373,22.0,FEMALE,basic,12,direct,Mac Desktop,US,0,0
+USER_02040,26.0,FEMALE,facebook,0,direct,Mac Desktop,NDF,0,0
+USER_00309,31.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_02690,22.0,MALE,basic,0,direct,Mac Desktop,US,0,0
+USER_00154,37.0,OTHER,basic,0,sem-brand,iPhone,US,0,0
+USER_08454,21.0,FEMALE,basic,0,direct,Android Phone,NDF,0,0
+USER_07612,25.0,MALE,basic,0,direct,Android Phone,NDF,0,0
+USER_01712,20.0,UNKNOWN,basic,0,direct,Windows Desktop,NDF,0,1
+USER_05339,,UNKNOWN,basic,0,other,Windows Desktop,NDF,1,1
+USER_00863,53.0,FEMALE,basic,0,sem-brand,iPhone,NDF,0,0
+USER_07451,39.0,FEMALE,basic,3,sem-non-brand,Mac Desktop,US,0,0
+USER_05050,42.0,MALE,basic,3,direct,Windows Desktop,US,0,0
+USER_05441,27.0,FEMALE,facebook,0,other,Android Phone,ES,0,0
+USER_07801,26.0,UNKNOWN,basic,3,direct,Windows Desktop,US,0,1
+USER_07007,48.0,FEMALE,facebook,3,direct,Mac Desktop,US,0,0
+USER_00352,43.0,MALE,basic,0,direct,Windows Desktop,GB,0,0
+USER_05457,,MALE,facebook,0,sem-brand,Windows Desktop,NDF,1,0
+USER_00127,27.0,MALE,basic,0,sem-non-brand,Windows Desktop,NDF,0,0
+USER_01143,35.0,FEMALE,facebook,0,direct,Windows Desktop,NDF,0,0
+USER_05354,28.0,FEMALE,basic,0,sem-brand,iPhone,NDF,0,0
+USER_01170,,OTHER,basic,3,direct,iPhone,NDF,1,0
+USER_00333,,FEMALE,google,0,other,Mac Desktop,NDF,1,0
+USER_05407,46.0,MALE,google,3,direct,Mac Desktop,NDF,0,0
+USER_02385,25.0,MALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_01730,31.0,FEMALE,basic,0,sem-brand,iPhone,NDF,0,0
+USER_07439,40.0,FEMALE,basic,0,sem-non-brand,Windows Desktop,NDF,0,0
+USER_01367,23.0,FEMALE,basic,25,direct,Windows Desktop,US,0,0
+USER_09989,25.0,MALE,basic,0,direct,Windows Desktop,other,0,0
+USER_07160,36.0,MALE,basic,0,sem-non-brand,Android Phone,US,0,0
+USER_00199,21.0,FEMALE,facebook,0,direct,Windows Desktop,IT,0,0
+USER_03958,46.0,FEMALE,facebook,0,direct,Windows Desktop,US,0,0
+USER_06430,,FEMALE,facebook,0,direct,Mac Desktop,NDF,1,0
+USER_06666,,MALE,google,0,direct,Windows Desktop,NDF,1,0
+USER_04493,,MALE,basic,25,direct,Android Phone,GB,1,0
+USER_09009,46.0,MALE,basic,12,direct,Android Phone,GB,0,0
+USER_03367,35.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_00491,50.0,FEMALE,facebook,0,direct,Mac Desktop,ES,0,0
+USER_06060,34.0,MALE,facebook,0,direct,Mac Desktop,NDF,0,0
+USER_09064,39.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_03540,37.0,MALE,facebook,0,direct,Android Phone,NDF,0,0
+USER_05170,37.0,FEMALE,basic,12,direct,Mac Desktop,NDF,0,0
+USER_08995,35.0,MALE,basic,0,sem-brand,Mac Desktop,NDF,0,0
+USER_05004,42.0,FEMALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_08865,47.0,FEMALE,basic,0,sem-brand,iPhone,NDF,0,0
+USER_04897,21.0,MALE,basic,0,direct,Windows Desktop,US,0,0
+USER_08567,39.0,MALE,google,0,other,Windows Desktop,other,0,0
+USER_09813,46.0,MALE,basic,0,sem-brand,iPhone,NDF,0,0
+USER_00146,20.0,UNKNOWN,facebook,0,direct,Android Phone,NDF,0,1
+USER_00027,38.0,UNKNOWN,basic,0,sem-non-brand,Windows Desktop,NDF,0,1
+USER_07018,,MALE,basic,0,other,Windows Desktop,GB,1,0
+USER_05631,43.0,MALE,google,0,direct,Android Phone,NDF,0,0
+USER_01372,18.0,MALE,facebook,0,sem-non-brand,iPhone,NDF,0,0
+USER_04960,30.0,MALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_02459,39.0,FEMALE,basic,3,direct,Mac Desktop,FR,0,0
+USER_01022,33.0,MALE,basic,0,direct,Mac Desktop,US,0,0
+USER_02981,47.0,MALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_05452,,FEMALE,basic,0,direct,Windows Desktop,ES,1,0
+USER_05954,39.0,UNKNOWN,basic,0,sem-non-brand,Windows Desktop,US,0,1
+USER_08377,23.0,FEMALE,basic,0,direct,Mac Desktop,GB,0,0
+USER_01327,32.0,FEMALE,google,12,direct,Mac Desktop,FR,0,0
+USER_09559,30.0,MALE,google,0,other,Mac Desktop,DE,0,0
+USER_01371,52.0,UNKNOWN,basic,0,direct,Mac Desktop,NDF,0,1
+USER_01510,21.0,FEMALE,facebook,3,sem-brand,Windows Desktop,ES,0,0
+USER_08981,49.0,FEMALE,google,3,direct,Mac Desktop,NDF,0,0
+USER_02104,20.0,OTHER,basic,3,direct,iPhone,NDF,0,0
+USER_03417,36.0,FEMALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_00334,44.0,FEMALE,facebook,12,other,Windows Desktop,other,0,0
+USER_00502,18.0,MALE,basic,0,sem-brand,iPhone,US,0,0
+USER_09268,53.0,MALE,basic,0,sem-brand,Mac Desktop,IT,0,0
+USER_05427,33.0,MALE,basic,0,other,Windows Desktop,NDF,0,0
+USER_03337,32.0,UNKNOWN,basic,0,direct,Mac Desktop,US,0,1
+USER_06156,32.0,MALE,basic,0,direct,Windows Desktop,US,0,0
+USER_04875,22.0,MALE,facebook,0,sem-non-brand,Windows Desktop,ES,0,0
+USER_05903,45.0,FEMALE,basic,0,other,Windows Desktop,NDF,0,0
+USER_01949,33.0,UNKNOWN,google,3,direct,iPhone,ES,0,1
+USER_05045,45.0,FEMALE,basic,12,direct,Mac Desktop,FR,0,0
+USER_07734,35.0,FEMALE,basic,0,sem-brand,Android Phone,other,0,0
+USER_09378,29.0,FEMALE,google,0,direct,Windows Desktop,NDF,0,0
+USER_03046,46.0,MALE,facebook,0,direct,Windows Desktop,NDF,0,0
+USER_05733,31.0,FEMALE,facebook,0,sem-brand,Mac Desktop,FR,0,0
+USER_02258,15.0,FEMALE,google,0,direct,Android Phone,ES,0,0
+USER_01384,42.0,OTHER,basic,0,other,Windows Desktop,US,0,0
+USER_06979,22.0,MALE,google,12,direct,Windows Desktop,other,0,0
+USER_02180,,MALE,basic,0,direct,Windows Desktop,ES,1,0
+USER_00430,20.0,MALE,facebook,0,sem-non-brand,Mac Desktop,other,0,0
+USER_06263,,UNKNOWN,basic,0,direct,Mac Desktop,other,1,1
+USER_01595,22.0,MALE,basic,0,other,iPhone,NDF,0,0
+USER_07529,21.0,MALE,facebook,0,direct,Windows Desktop,NDF,0,0
+USER_01753,23.0,UNKNOWN,facebook,0,sem-brand,Android Phone,US,0,1
+USER_05740,37.0,FEMALE,facebook,0,sem-brand,Windows Desktop,other,0,0
+USER_02577,44.0,FEMALE,facebook,0,direct,Windows Desktop,GB,0,0
+USER_01240,29.0,MALE,facebook,0,sem-brand,Windows Desktop,US,0,0
+USER_09932,41.0,FEMALE,basic,12,direct,Windows Desktop,NDF,0,0
+USER_00679,47.0,MALE,facebook,0,direct,Windows Desktop,NDF,0,0
+USER_07264,32.0,MALE,facebook,0,direct,Windows Desktop,NDF,0,0
+USER_03151,29.0,MALE,facebook,0,direct,Windows Desktop,other,0,0
+USER_02295,39.0,FEMALE,basic,3,sem-brand,Mac Desktop,US,0,0
+USER_07039,25.0,MALE,basic,0,direct,Windows Desktop,GB,0,0
+USER_04927,36.0,MALE,facebook,0,direct,Windows Desktop,NDF,0,0
+USER_01110,,MALE,basic,0,direct,Windows Desktop,US,1,0
+USER_03394,55.0,UNKNOWN,basic,0,other,Mac Desktop,NDF,0,1
+USER_08875,30.0,MALE,basic,0,sem-non-brand,Mac Desktop,NDF,0,0
+USER_03823,36.0,FEMALE,basic,3,direct,iPhone,NDF,0,0
+USER_04237,30.0,FEMALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_09057,,MALE,google,0,sem-non-brand,Windows Desktop,IT,1,0
+USER_07140,,MALE,facebook,3,sem-non-brand,iPhone,NDF,1,0
+USER_00891,39.0,MALE,basic,0,sem-non-brand,Mac Desktop,FR,0,0
+USER_00527,34.0,FEMALE,basic,12,sem-brand,iPhone,other,0,0
+USER_00142,26.0,FEMALE,basic,12,direct,Android Phone,NDF,0,0
+USER_08892,23.0,MALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_00698,44.0,MALE,basic,12,direct,Android Phone,ES,0,0
+USER_01933,32.0,FEMALE,basic,0,sem-brand,Mac Desktop,FR,0,0
+USER_03564,44.0,MALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_06983,26.0,UNKNOWN,google,25,direct,iPhone,NDF,0,1
+USER_04350,21.0,OTHER,google,12,direct,Mac Desktop,NDF,0,0
+USER_07556,48.0,MALE,google,0,direct,iPhone,other,0,0
+USER_09504,54.0,MALE,basic,0,sem-non-brand,Windows Desktop,other,0,0
+USER_09004,32.0,FEMALE,google,0,direct,Mac Desktop,FR,0,0
+USER_03583,20.0,MALE,google,0,other,iPhone,US,0,0
+USER_03375,22.0,FEMALE,basic,0,direct,iPhone,US,0,0
+USER_00291,28.0,FEMALE,google,0,direct,Mac Desktop,NDF,0,0
+USER_05088,34.0,MALE,basic,12,direct,iPhone,GB,0,0
+USER_09512,44.0,OTHER,basic,0,direct,iPhone,US,0,0
+USER_06185,25.0,FEMALE,basic,0,direct,Windows Desktop,US,0,0
+USER_05532,48.0,MALE,basic,0,direct,Windows Desktop,IT,0,0
+USER_04044,44.0,FEMALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_07771,31.0,MALE,basic,0,direct,iPhone,NDF,0,0
+USER_04595,35.0,MALE,basic,0,other,Windows Desktop,US,0,0
+USER_05871,36.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_04342,55.0,MALE,basic,12,direct,iPhone,NDF,0,0
+USER_00661,27.0,MALE,basic,0,other,Windows Desktop,ES,0,0
+USER_00416,51.0,FEMALE,basic,3,direct,iPhone,US,0,0
+USER_04675,23.0,FEMALE,basic,0,direct,Windows Desktop,US,0,0
+USER_00702,26.0,UNKNOWN,facebook,0,sem-non-brand,iPhone,US,0,1
+USER_03081,35.0,OTHER,basic,0,sem-brand,Windows Desktop,US,0,0
+USER_01612,43.0,FEMALE,basic,0,other,Windows Desktop,NDF,0,0
+USER_07498,13.0,FEMALE,basic,0,direct,iPhone,NDF,0,0
+USER_00821,49.0,UNKNOWN,basic,0,direct,Windows Desktop,IT,0,1
+USER_00519,42.0,MALE,basic,0,other,Mac Desktop,FR,0,0
+USER_07742,27.0,FEMALE,facebook,0,sem-brand,Windows Desktop,NDF,0,0
+USER_08006,35.0,FEMALE,basic,0,direct,Mac Desktop,US,0,0
+USER_01936,,FEMALE,basic,0,direct,iPhone,NDF,1,0
+USER_04325,45.0,FEMALE,basic,0,direct,iPhone,NDF,0,0
+USER_05060,30.0,FEMALE,basic,0,direct,Windows Desktop,US,0,0
+USER_07094,41.0,MALE,basic,0,direct,Windows Desktop,US,0,0
+USER_03813,35.0,FEMALE,basic,12,sem-brand,Windows Desktop,IT,0,0
+USER_04528,33.0,FEMALE,google,0,other,Windows Desktop,NDF,0,0
+USER_06960,46.0,MALE,basic,0,other,Mac Desktop,NDF,0,0
+USER_09656,40.0,FEMALE,facebook,0,direct,Mac Desktop,NDF,0,0
+USER_07430,34.0,MALE,basic,0,sem-brand,Windows Desktop,IT,0,0
+USER_08031,50.0,MALE,google,0,sem-brand,Mac Desktop,NDF,0,0
+USER_03325,39.0,MALE,facebook,0,sem-brand,Windows Desktop,GB,0,0
+USER_05735,30.0,MALE,basic,0,direct,Mac Desktop,FR,0,0
+USER_03501,27.0,FEMALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_05178,32.0,FEMALE,google,0,direct,Windows Desktop,other,0,0
+USER_07753,26.0,UNKNOWN,google,0,sem-brand,Windows Desktop,NDF,0,1
+USER_01214,30.0,MALE,basic,0,direct,Mac Desktop,US,0,0
+USER_00554,37.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_03227,47.0,FEMALE,google,0,sem-brand,iPhone,NDF,0,0
+USER_02828,44.0,FEMALE,facebook,25,sem-brand,Mac Desktop,NDF,0,0
+USER_03329,43.0,FEMALE,basic,0,sem-non-brand,iPhone,IT,0,0
+USER_01421,,MALE,basic,25,sem-non-brand,iPhone,NDF,1,0
+USER_07650,46.0,FEMALE,google,12,direct,Windows Desktop,NDF,0,0
+USER_07835,24.0,MALE,basic,0,other,iPhone,NDF,0,0
+USER_08527,36.0,MALE,basic,0,direct,Windows Desktop,GB,0,0
+USER_05076,34.0,FEMALE,facebook,0,direct,Windows Desktop,other,0,0
+USER_01247,25.0,FEMALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_00955,46.0,FEMALE,basic,0,other,iPhone,NDF,0,0
+USER_08162,42.0,MALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_03307,37.0,MALE,google,12,sem-non-brand,Windows Desktop,IT,0,0
+USER_02226,49.0,MALE,basic,0,direct,Windows Desktop,US,0,0
+USER_07661,35.0,MALE,basic,3,direct,iPhone,NDF,0,0
+USER_09230,33.0,MALE,basic,0,direct,Windows Desktop,GB,0,0
+USER_00594,45.0,MALE,google,0,direct,Android Phone,US,0,0
+USER_05342,25.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_00705,40.0,UNKNOWN,google,0,sem-brand,iPhone,NDF,0,1
+USER_00525,24.0,UNKNOWN,facebook,0,direct,Windows Desktop,NDF,0,1
+USER_03616,,MALE,facebook,3,direct,Android Phone,NDF,1,0
+USER_02946,34.0,FEMALE,facebook,0,direct,iPhone,NDF,0,0
+USER_03809,42.0,MALE,facebook,0,sem-brand,iPhone,ES,0,0
+USER_04344,,OTHER,basic,3,direct,Windows Desktop,IT,1,0
+USER_00353,32.0,MALE,google,0,direct,Windows Desktop,GB,0,0
+USER_06174,37.0,FEMALE,basic,0,sem-brand,iPhone,NDF,0,0
+USER_02307,31.0,MALE,basic,0,direct,iPhone,NDF,0,0
+USER_01193,37.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_05238,35.0,FEMALE,basic,3,other,Mac Desktop,US,0,0
+USER_03432,39.0,FEMALE,basic,0,direct,Android Phone,other,0,0
+USER_08087,31.0,OTHER,basic,3,direct,Windows Desktop,NDF,0,0
+USER_00377,36.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_09306,43.0,FEMALE,basic,0,direct,Mac Desktop,FR,0,0
+USER_09899,,MALE,basic,0,direct,iPhone,NDF,1,0
+USER_03805,,FEMALE,basic,25,sem-non-brand,Mac Desktop,ES,1,0
+USER_08456,45.0,FEMALE,basic,12,direct,Mac Desktop,US,0,0
+USER_07064,36.0,MALE,basic,0,direct,Windows Desktop,other,0,0
+USER_09332,27.0,FEMALE,google,25,direct,Android Phone,NDF,0,0
+USER_02352,41.0,FEMALE,basic,0,sem-brand,Mac Desktop,NDF,0,0
+USER_08275,38.0,MALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_04088,46.0,MALE,facebook,0,direct,Windows Desktop,NDF,0,0
+USER_03296,,UNKNOWN,basic,0,direct,Windows Desktop,NDF,1,1
+USER_05944,39.0,FEMALE,basic,3,direct,Windows Desktop,GB,0,0
+USER_05811,49.0,FEMALE,facebook,0,direct,Mac Desktop,IT,0,0
+USER_06290,31.0,FEMALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_08974,42.0,FEMALE,facebook,0,direct,Mac Desktop,NDF,0,0
+USER_03645,21.0,FEMALE,basic,12,direct,Mac Desktop,US,0,0
+USER_06863,36.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_04705,32.0,FEMALE,basic,3,sem-non-brand,Windows Desktop,NDF,0,0
+USER_08421,44.0,UNKNOWN,basic,0,direct,Android Phone,ES,0,1
+USER_04740,,UNKNOWN,facebook,3,sem-brand,Mac Desktop,NDF,1,1
+USER_05814,17.0,UNKNOWN,basic,0,direct,iPhone,NDF,0,1
+USER_04125,21.0,UNKNOWN,facebook,12,direct,Mac Desktop,NDF,0,1
+USER_03761,33.0,FEMALE,basic,0,sem-brand,Windows Desktop,other,0,0
+USER_04765,,FEMALE,basic,0,direct,Windows Desktop,other,1,0
+USER_08900,32.0,MALE,facebook,25,sem-brand,Mac Desktop,FR,0,0
+USER_05155,33.0,MALE,facebook,0,sem-brand,Windows Desktop,NDF,0,0
+USER_09317,23.0,FEMALE,facebook,0,sem-brand,Windows Desktop,NDF,0,0
+USER_06913,46.0,MALE,google,0,direct,Windows Desktop,ES,0,0
+USER_01162,18.0,MALE,basic,0,sem-brand,Mac Desktop,NDF,0,0
+USER_01177,32.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_08164,,MALE,basic,0,sem-brand,Android Phone,NDF,1,0
+USER_09526,,FEMALE,basic,0,sem-non-brand,Windows Desktop,NDF,1,0
+USER_09456,42.0,UNKNOWN,basic,0,sem-brand,Windows Desktop,NDF,0,1
+USER_02499,37.0,MALE,facebook,0,sem-brand,Android Phone,other,0,0
+USER_07910,37.0,MALE,basic,0,direct,Mac Desktop,FR,0,0
+USER_09223,27.0,MALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_09297,26.0,MALE,basic,3,direct,Android Phone,ES,0,0
+USER_09970,23.0,FEMALE,facebook,0,direct,Windows Desktop,NDF,0,0
+USER_08045,42.0,MALE,google,0,direct,Windows Desktop,NDF,0,0
+USER_04495,52.0,MALE,basic,3,sem-brand,Windows Desktop,NDF,0,0
+USER_06791,,UNKNOWN,google,0,other,Windows Desktop,NDF,1,1
+USER_08450,,MALE,basic,12,other,iPhone,NDF,1,0
+USER_05135,34.0,MALE,basic,0,other,Windows Desktop,NDF,0,0
+USER_08025,32.0,FEMALE,basic,3,direct,Mac Desktop,FR,0,0
+USER_09949,48.0,FEMALE,basic,3,direct,Windows Desktop,NDF,0,0
+USER_08992,32.0,OTHER,basic,3,direct,iPhone,GB,0,0
+USER_02098,26.0,FEMALE,basic,0,sem-brand,iPhone,US,0,0
+USER_01756,32.0,FEMALE,basic,0,sem-non-brand,Mac Desktop,US,0,0
+USER_03128,34.0,FEMALE,basic,0,direct,iPhone,ES,0,0
+USER_07663,41.0,FEMALE,facebook,0,direct,Windows Desktop,NDF,0,0
+USER_06061,41.0,MALE,google,3,other,Windows Desktop,IT,0,0
+USER_02470,45.0,MALE,basic,0,direct,Windows Desktop,US,0,0
+USER_08938,39.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_01144,32.0,MALE,basic,3,direct,Windows Desktop,US,0,0
+USER_08167,41.0,FEMALE,basic,0,sem-brand,Windows Desktop,other,0,0
+USER_03639,39.0,MALE,basic,0,direct,Android Phone,NDF,0,0
+USER_01164,45.0,FEMALE,google,3,direct,Mac Desktop,US,0,0
+USER_07206,37.0,UNKNOWN,basic,0,direct,Windows Desktop,NDF,0,1
+USER_04770,34.0,FEMALE,facebook,0,other,Mac Desktop,DE,0,0
+USER_02312,36.0,MALE,basic,0,direct,Android Phone,NDF,0,0
+USER_00932,18.0,FEMALE,facebook,0,sem-brand,iPhone,NDF,0,0
+USER_00397,48.0,MALE,basic,0,direct,iPhone,US,0,0
+USER_05477,33.0,MALE,basic,0,direct,Android Phone,NDF,0,0
+USER_07526,45.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_00138,42.0,MALE,basic,0,sem-non-brand,Mac Desktop,FR,0,0
+USER_09830,22.0,FEMALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_08628,41.0,MALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_02102,24.0,FEMALE,basic,0,direct,Android Phone,US,0,0
+USER_07911,40.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_09810,,FEMALE,facebook,3,direct,Windows Desktop,ES,1,0
+USER_08445,24.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_04448,39.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_01273,30.0,FEMALE,basic,3,direct,iPhone,IT,0,0
+USER_02412,21.0,MALE,basic,0,direct,Android Phone,NDF,0,0
+USER_03224,37.0,MALE,basic,0,direct,Android Phone,US,0,0
+USER_08850,54.0,UNKNOWN,google,0,direct,iPhone,NDF,0,1
+USER_09422,37.0,UNKNOWN,basic,3,direct,Windows Desktop,GB,0,1
+USER_07707,33.0,MALE,basic,0,direct,Windows Desktop,ES,0,0
+USER_01013,26.0,MALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_06256,49.0,FEMALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_02247,19.0,MALE,basic,0,direct,Windows Desktop,other,0,0
+USER_06931,43.0,MALE,basic,3,direct,Mac Desktop,DE,0,0
+USER_03808,41.0,FEMALE,google,0,direct,Windows Desktop,NDF,0,0
+USER_03878,27.0,MALE,basic,12,direct,Android Phone,ES,0,0
+USER_06175,31.0,MALE,facebook,0,sem-non-brand,Windows Desktop,NDF,0,0
+USER_05031,47.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_03961,54.0,MALE,basic,0,direct,iPhone,NDF,0,0
+USER_03148,32.0,OTHER,basic,0,direct,iPhone,ES,0,0
+USER_04668,24.0,FEMALE,facebook,0,direct,iPhone,ES,0,0
+USER_01488,27.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_08132,,FEMALE,basic,0,direct,Windows Desktop,US,1,0
+USER_04721,39.0,FEMALE,facebook,0,direct,Windows Desktop,NDF,0,0
+USER_07690,38.0,FEMALE,basic,0,sem-non-brand,Mac Desktop,FR,0,0
+USER_01608,,FEMALE,basic,0,direct,Android Phone,NDF,1,0
+USER_07000,42.0,OTHER,basic,0,sem-non-brand,Android Phone,NDF,0,0
+USER_01064,,FEMALE,google,0,sem-non-brand,Windows Desktop,NDF,1,0
+USER_01746,44.0,MALE,basic,0,sem-brand,iPhone,US,0,0
+USER_09410,33.0,FEMALE,basic,0,direct,Mac Desktop,FR,0,0
+USER_07490,31.0,MALE,facebook,12,direct,Windows Desktop,other,0,0
+USER_03667,40.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_04030,43.0,FEMALE,google,0,sem-brand,Mac Desktop,NDF,0,0
+USER_05355,43.0,MALE,facebook,0,other,Windows Desktop,US,0,0
+USER_07982,33.0,UNKNOWN,basic,12,direct,iPhone,NDF,0,1
+USER_02549,56.0,FEMALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_04333,36.0,MALE,basic,0,sem-brand,iPhone,GB,0,0
+USER_00782,38.0,UNKNOWN,basic,25,sem-brand,Mac Desktop,FR,0,1
+USER_07525,25.0,MALE,basic,0,direct,Windows Desktop,US,0,0
+USER_06760,43.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_07587,42.0,OTHER,basic,0,direct,Android Phone,US,0,0
+USER_06654,28.0,FEMALE,google,0,direct,iPhone,NDF,0,0
+USER_09809,31.0,MALE,basic,0,direct,Mac Desktop,DE,0,0
+USER_07085,20.0,UNKNOWN,basic,0,direct,Windows Desktop,other,0,1
+USER_00320,35.0,FEMALE,facebook,0,direct,Android Phone,NDF,0,0
+USER_01206,26.0,MALE,google,0,direct,Mac Desktop,US,0,0
+USER_09623,,FEMALE,basic,0,sem-brand,Android Phone,NDF,1,0
+USER_02313,39.0,MALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_06201,21.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_04838,48.0,FEMALE,google,12,other,Windows Desktop,other,0,0
+USER_07871,54.0,MALE,facebook,0,direct,iPhone,GB,0,0
+USER_02262,47.0,UNKNOWN,basic,0,direct,Windows Desktop,NDF,0,1
+USER_05090,23.0,MALE,basic,0,direct,iPhone,NDF,0,0
+USER_02126,21.0,UNKNOWN,facebook,0,direct,Windows Desktop,NDF,0,1
+USER_02561,,MALE,basic,0,direct,Mac Desktop,US,1,0
+USER_08436,35.0,FEMALE,facebook,3,sem-brand,Windows Desktop,NDF,0,0
+USER_07775,40.0,FEMALE,basic,0,sem-brand,iPhone,GB,0,0
+USER_02382,37.0,UNKNOWN,basic,0,sem-brand,iPhone,US,0,1
+USER_08317,43.0,MALE,basic,25,direct,Windows Desktop,NDF,0,0
+USER_08799,47.0,FEMALE,facebook,0,direct,Android Phone,NDF,0,0
+USER_01684,21.0,UNKNOWN,basic,0,direct,Windows Desktop,IT,0,1
+USER_03494,39.0,MALE,basic,3,direct,Mac Desktop,DE,0,0
+USER_03261,34.0,FEMALE,basic,0,sem-brand,iPhone,NDF,0,0
+USER_08804,38.0,FEMALE,basic,0,direct,Windows Desktop,GB,0,0
+USER_03938,,MALE,basic,0,sem-brand,Windows Desktop,IT,1,0
+USER_09409,48.0,MALE,basic,0,direct,Mac Desktop,other,0,0
+USER_04557,37.0,FEMALE,basic,3,sem-non-brand,Windows Desktop,US,0,0
+USER_02712,39.0,FEMALE,basic,0,sem-non-brand,Windows Desktop,NDF,0,0
+USER_04205,27.0,FEMALE,facebook,12,direct,Mac Desktop,GB,0,0
+USER_07703,44.0,FEMALE,basic,0,sem-brand,iPhone,NDF,0,0
+USER_03471,33.0,FEMALE,basic,0,direct,Android Phone,US,0,0
+USER_02488,34.0,MALE,basic,12,direct,Mac Desktop,NDF,0,0
+USER_00907,42.0,MALE,google,0,direct,Windows Desktop,US,0,0
+USER_07041,29.0,FEMALE,basic,25,direct,Windows Desktop,US,0,0
+USER_00937,41.0,MALE,google,0,direct,Android Phone,NDF,0,0
+USER_05360,,OTHER,basic,0,sem-brand,Mac Desktop,NDF,1,0
+USER_04218,,MALE,basic,0,direct,Windows Desktop,other,1,0
+USER_06988,33.0,FEMALE,basic,0,direct,Mac Desktop,FR,0,0
+USER_03167,35.0,OTHER,basic,0,direct,Windows Desktop,IT,0,0
+USER_07107,32.0,FEMALE,basic,0,sem-non-brand,Windows Desktop,US,0,0
+USER_06537,41.0,MALE,facebook,0,direct,Windows Desktop,NDF,0,0
+USER_03945,44.0,MALE,basic,0,direct,Android Phone,NDF,0,0
+USER_04872,20.0,OTHER,basic,3,direct,Windows Desktop,GB,0,0
+USER_02137,,FEMALE,basic,0,direct,iPhone,IT,1,0
+USER_07119,41.0,MALE,basic,0,direct,iPhone,GB,0,0
+USER_07156,,MALE,facebook,3,sem-brand,Android Phone,US,1,0
+USER_06651,30.0,FEMALE,facebook,0,sem-non-brand,Windows Desktop,NDF,0,0
+USER_04860,28.0,FEMALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_07916,30.0,FEMALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_07445,50.0,FEMALE,facebook,0,direct,Android Phone,NDF,0,0
+USER_02322,39.0,UNKNOWN,basic,0,other,Mac Desktop,US,0,1
+USER_08797,43.0,FEMALE,google,0,sem-brand,iPhone,US,0,0
+USER_09752,22.0,UNKNOWN,basic,25,direct,Mac Desktop,other,0,1
+USER_03690,39.0,FEMALE,basic,0,direct,iPhone,US,0,0
+USER_05048,46.0,OTHER,facebook,0,direct,Windows Desktop,NDF,0,0
+USER_02331,,FEMALE,basic,0,direct,Mac Desktop,IT,1,0
+USER_08745,26.0,FEMALE,basic,0,direct,iPhone,US,0,0
+USER_09961,25.0,UNKNOWN,facebook,0,direct,Android Phone,US,0,1
+USER_09338,34.0,UNKNOWN,basic,0,direct,Windows Desktop,US,0,1
+USER_03933,42.0,OTHER,basic,0,other,Mac Desktop,US,0,0
+USER_00640,30.0,MALE,facebook,25,sem-non-brand,Windows Desktop,ES,0,0
+USER_02300,45.0,FEMALE,basic,0,direct,iPhone,ES,0,0
+USER_07154,29.0,UNKNOWN,basic,0,sem-brand,Mac Desktop,NDF,0,1
+USER_00328,40.0,UNKNOWN,basic,0,direct,Android Phone,NDF,0,1
+USER_02179,34.0,OTHER,basic,0,sem-brand,Mac Desktop,DE,0,0
+USER_04025,30.0,OTHER,basic,0,direct,Android Phone,US,0,0
+USER_00572,37.0,UNKNOWN,facebook,0,sem-brand,Windows Desktop,NDF,0,1
+USER_00011,28.0,MALE,google,0,direct,Mac Desktop,NDF,0,0
+USER_02245,35.0,FEMALE,basic,0,direct,Mac Desktop,FR,0,0
+USER_02229,45.0,UNKNOWN,facebook,0,direct,Mac Desktop,NDF,0,1
+USER_04032,21.0,FEMALE,basic,3,direct,Android Phone,US,0,0
+USER_03941,47.0,MALE,basic,0,sem-non-brand,Windows Desktop,NDF,0,0
+USER_05187,36.0,UNKNOWN,basic,0,direct,Windows Desktop,NDF,0,1
+USER_06050,,FEMALE,google,0,sem-brand,iPhone,US,1,0
+USER_01211,26.0,FEMALE,basic,0,other,Windows Desktop,NDF,0,0
+USER_05500,41.0,MALE,basic,0,direct,Mac Desktop,FR,0,0
+USER_04033,,FEMALE,google,0,direct,Windows Desktop,other,1,0
+USER_09169,37.0,FEMALE,basic,0,other,Mac Desktop,DE,0,0
+USER_08257,36.0,MALE,basic,0,other,Windows Desktop,NDF,0,0
+USER_06679,27.0,FEMALE,basic,3,direct,iPhone,US,0,0
+USER_06964,,UNKNOWN,basic,3,sem-non-brand,Windows Desktop,other,1,1
+USER_07932,32.0,FEMALE,facebook,0,sem-non-brand,iPhone,NDF,0,0
+USER_04450,28.0,MALE,basic,0,sem-non-brand,iPhone,NDF,0,0
+USER_09445,24.0,FEMALE,google,0,direct,Windows Desktop,US,0,0
+USER_07192,33.0,FEMALE,basic,25,other,Windows Desktop,other,0,0
+USER_00072,33.0,UNKNOWN,google,0,direct,Android Phone,IT,0,1
+USER_09441,31.0,FEMALE,basic,0,other,Windows Desktop,NDF,0,0
+USER_01374,50.0,FEMALE,basic,0,sem-brand,iPhone,NDF,0,0
+USER_05411,28.0,FEMALE,facebook,0,sem-brand,Windows Desktop,NDF,0,0
+USER_07364,45.0,UNKNOWN,basic,0,direct,Windows Desktop,NDF,0,1
+USER_05857,28.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_05648,49.0,MALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_01962,39.0,FEMALE,google,0,direct,iPhone,NDF,0,0
+USER_03967,23.0,MALE,facebook,0,direct,Windows Desktop,NDF,0,0
+USER_08742,35.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_05307,24.0,MALE,google,0,sem-brand,Mac Desktop,NDF,0,0
+USER_01876,27.0,MALE,facebook,0,direct,iPhone,ES,0,0
+USER_04821,31.0,MALE,basic,3,direct,Android Phone,NDF,0,0
+USER_00095,27.0,MALE,basic,0,other,Android Phone,US,0,0
+USER_03753,29.0,MALE,basic,0,sem-brand,Android Phone,NDF,0,0
+USER_04175,39.0,FEMALE,basic,0,sem-brand,Android Phone,NDF,0,0
+USER_00272,46.0,UNKNOWN,basic,0,direct,Mac Desktop,ES,0,1
+USER_09726,34.0,FEMALE,basic,0,direct,Android Phone,NDF,0,0
+USER_06491,24.0,FEMALE,facebook,0,sem-brand,Windows Desktop,NDF,0,0
+USER_06653,37.0,MALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_03723,24.0,MALE,basic,0,other,Windows Desktop,NDF,0,0
+USER_06426,25.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_01681,33.0,FEMALE,basic,0,direct,Windows Desktop,US,0,0
+USER_00750,23.0,MALE,google,12,direct,Windows Desktop,NDF,0,0
+USER_07653,39.0,UNKNOWN,basic,0,direct,iPhone,US,0,1
+USER_09687,27.0,MALE,google,0,sem-brand,Mac Desktop,US,0,0
+USER_03625,23.0,MALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_07413,38.0,UNKNOWN,google,0,direct,Windows Desktop,other,0,1
+USER_07088,34.0,MALE,basic,0,sem-brand,Android Phone,US,0,0
+USER_01386,48.0,OTHER,basic,25,direct,Mac Desktop,other,0,0
+USER_06277,31.0,MALE,facebook,0,direct,iPhone,NDF,0,0
+USER_08194,35.0,MALE,facebook,0,sem-non-brand,Mac Desktop,DE,0,0
+USER_06879,26.0,UNKNOWN,basic,0,direct,iPhone,NDF,0,1
+USER_06251,30.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_00535,34.0,FEMALE,facebook,0,direct,Windows Desktop,US,0,0
+USER_01918,32.0,UNKNOWN,basic,0,direct,Windows Desktop,GB,0,1
+USER_09458,45.0,MALE,facebook,0,direct,Mac Desktop,NDF,0,0
+USER_05788,24.0,MALE,basic,0,direct,Mac Desktop,US,0,0
+USER_08916,53.0,UNKNOWN,basic,0,other,Mac Desktop,ES,0,1
+USER_02536,44.0,MALE,basic,0,other,Windows Desktop,NDF,0,0
+USER_01703,46.0,FEMALE,basic,0,direct,Windows Desktop,ES,0,0
+USER_01908,20.0,MALE,basic,3,sem-brand,Windows Desktop,NDF,0,0
+USER_04311,24.0,MALE,basic,25,direct,iPhone,ES,0,0
+USER_04991,41.0,FEMALE,facebook,0,sem-non-brand,Mac Desktop,NDF,0,0
+USER_05591,,MALE,basic,3,direct,Windows Desktop,other,1,0
+USER_03988,55.0,FEMALE,facebook,0,sem-brand,Mac Desktop,NDF,0,0
+USER_08905,25.0,MALE,facebook,0,direct,Windows Desktop,IT,0,0
+USER_06916,22.0,FEMALE,google,0,direct,Mac Desktop,US,0,0
+USER_07619,38.0,FEMALE,basic,3,sem-non-brand,Windows Desktop,NDF,0,0
+USER_09152,44.0,UNKNOWN,basic,0,direct,iPhone,US,0,1
+USER_08791,29.0,MALE,basic,0,sem-non-brand,iPhone,US,0,0
+USER_08327,31.0,MALE,google,3,direct,Mac Desktop,FR,0,0
+USER_02451,,UNKNOWN,basic,3,direct,Windows Desktop,other,1,1
+USER_03621,37.0,MALE,basic,0,direct,Android Phone,NDF,0,0
+USER_02750,53.0,MALE,basic,12,direct,Android Phone,ES,0,0
+USER_00336,,FEMALE,basic,12,other,Mac Desktop,NDF,1,0
+USER_00081,37.0,FEMALE,basic,0,direct,iPhone,NDF,0,0
+USER_02948,31.0,OTHER,basic,0,direct,Mac Desktop,US,0,0
+USER_08273,29.0,MALE,basic,25,sem-non-brand,Windows Desktop,US,0,0
+USER_05264,47.0,MALE,facebook,0,sem-brand,Windows Desktop,other,0,0
+USER_05211,22.0,FEMALE,facebook,0,direct,Windows Desktop,NDF,0,0
+USER_01092,42.0,OTHER,basic,25,direct,Mac Desktop,DE,0,0
+USER_04628,46.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_01484,36.0,FEMALE,basic,0,direct,Windows Desktop,US,0,0
+USER_05215,39.0,FEMALE,basic,12,sem-brand,Windows Desktop,ES,0,0
+USER_01242,27.0,FEMALE,basic,0,direct,Android Phone,NDF,0,0
+USER_09289,43.0,MALE,basic,0,other,Windows Desktop,GB,0,0
+USER_02914,41.0,MALE,facebook,0,sem-non-brand,iPhone,GB,0,0
+USER_09955,41.0,MALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_07319,24.0,MALE,basic,0,direct,Windows Desktop,US,0,0
+USER_01218,24.0,MALE,basic,0,direct,Android Phone,NDF,0,0
+USER_08430,25.0,MALE,basic,0,sem-non-brand,iPhone,NDF,0,0
+USER_03248,36.0,MALE,basic,0,sem-non-brand,Windows Desktop,US,0,0
+USER_07574,25.0,FEMALE,basic,0,direct,Windows Desktop,other,0,0
+USER_05560,22.0,MALE,basic,0,direct,Mac Desktop,IT,0,0
+USER_04241,43.0,UNKNOWN,google,0,direct,iPhone,US,0,1
+USER_03289,30.0,FEMALE,basic,0,sem-brand,Mac Desktop,FR,0,0
+USER_00933,19.0,UNKNOWN,facebook,0,direct,Mac Desktop,NDF,0,1
+USER_02801,63.0,FEMALE,basic,0,direct,iPhone,NDF,0,0
+USER_09172,40.0,FEMALE,basic,0,direct,Mac Desktop,US,0,0
+USER_07311,25.0,UNKNOWN,basic,0,direct,Windows Desktop,NDF,0,1
+USER_04118,28.0,MALE,basic,0,sem-brand,Mac Desktop,US,0,0
+USER_09088,32.0,MALE,facebook,0,sem-non-brand,iPhone,other,0,0
+USER_05935,38.0,UNKNOWN,basic,0,sem-brand,Windows Desktop,NDF,0,1
+USER_08821,48.0,FEMALE,facebook,0,direct,Windows Desktop,NDF,0,0
+USER_00633,29.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_08919,,FEMALE,basic,0,direct,iPhone,ES,1,0
+USER_02273,34.0,UNKNOWN,facebook,0,sem-brand,Mac Desktop,FR,0,1
+USER_04146,38.0,FEMALE,basic,0,sem-non-brand,iPhone,NDF,0,0
+USER_07339,,MALE,basic,0,direct,Windows Desktop,other,1,0
+USER_02461,42.0,FEMALE,basic,0,direct,Windows Desktop,ES,0,0
+USER_09137,45.0,FEMALE,basic,0,direct,Android Phone,NDF,0,0
+USER_05376,62.0,FEMALE,facebook,0,other,iPhone,ES,0,0
+USER_00898,47.0,FEMALE,basic,25,other,Mac Desktop,NDF,0,0
+USER_06812,24.0,UNKNOWN,basic,3,other,Windows Desktop,NDF,0,1
+USER_03601,26.0,MALE,basic,3,direct,Mac Desktop,other,0,0
+USER_00460,55.0,OTHER,facebook,0,direct,iPhone,US,0,0
+USER_08227,58.0,FEMALE,basic,0,direct,Mac Desktop,US,0,0
+USER_00685,41.0,FEMALE,basic,25,direct,Windows Desktop,US,0,0
+USER_05163,34.0,MALE,basic,12,direct,iPhone,US,0,0
+USER_04405,43.0,FEMALE,basic,0,sem-brand,iPhone,other,0,0
+USER_03143,27.0,MALE,basic,0,direct,Mac Desktop,US,0,0
+USER_06571,19.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_03866,37.0,MALE,facebook,25,direct,Mac Desktop,FR,0,0
+USER_06526,30.0,FEMALE,basic,0,sem-brand,Mac Desktop,FR,0,0
+USER_06950,19.0,MALE,google,0,sem-brand,Android Phone,NDF,0,0
+USER_07637,30.0,UNKNOWN,basic,25,direct,iPhone,GB,0,1
+USER_07052,45.0,MALE,basic,12,direct,Windows Desktop,other,0,0
+USER_02402,27.0,UNKNOWN,basic,0,direct,Mac Desktop,other,0,1
+USER_03072,36.0,FEMALE,basic,0,sem-brand,iPhone,NDF,0,0
+USER_06143,41.0,FEMALE,facebook,3,direct,Mac Desktop,DE,0,0
+USER_02046,34.0,UNKNOWN,basic,0,sem-brand,Android Phone,NDF,0,1
+USER_04249,33.0,FEMALE,basic,25,direct,Mac Desktop,FR,0,0
+USER_00765,,FEMALE,facebook,0,direct,Windows Desktop,GB,1,0
+USER_02628,29.0,UNKNOWN,basic,12,direct,iPhone,NDF,0,1
+USER_07033,23.0,MALE,facebook,0,direct,Android Phone,NDF,0,0
+USER_04797,22.0,MALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_01046,41.0,FEMALE,basic,0,sem-brand,iPhone,NDF,0,0
+USER_09662,,MALE,basic,0,sem-brand,Mac Desktop,NDF,1,0
+USER_07487,39.0,MALE,basic,0,direct,iPhone,GB,0,0
+USER_06110,45.0,UNKNOWN,facebook,0,sem-brand,Windows Desktop,NDF,0,1
+USER_09678,37.0,UNKNOWN,basic,0,direct,Windows Desktop,US,0,1
+USER_02256,43.0,MALE,facebook,0,direct,Windows Desktop,US,0,0
+USER_05888,19.0,FEMALE,facebook,0,direct,Android Phone,NDF,0,0
+USER_03223,41.0,MALE,basic,0,sem-brand,Mac Desktop,FR,0,0
+USER_03704,32.0,FEMALE,facebook,0,direct,Windows Desktop,NDF,0,0
+USER_00407,32.0,MALE,facebook,0,other,iPhone,NDF,0,0
+USER_02387,23.0,MALE,google,0,sem-brand,Windows Desktop,other,0,0
+USER_02823,18.0,MALE,basic,0,direct,iPhone,US,0,0
+USER_03464,35.0,FEMALE,basic,0,sem-non-brand,Mac Desktop,DE,0,0
+USER_01850,26.0,FEMALE,basic,0,other,Mac Desktop,ES,0,0
+USER_08335,38.0,FEMALE,facebook,0,sem-brand,iPhone,NDF,0,0
+USER_05844,41.0,UNKNOWN,google,0,direct,Windows Desktop,ES,0,1
+USER_00178,31.0,FEMALE,google,0,direct,iPhone,other,0,0
+USER_00410,41.0,FEMALE,facebook,0,direct,iPhone,NDF,0,0
+USER_01910,53.0,MALE,basic,3,direct,Android Phone,NDF,0,0
+USER_00497,31.0,MALE,basic,0,sem-brand,iPhone,NDF,0,0
+USER_03541,49.0,FEMALE,facebook,0,direct,Mac Desktop,NDF,0,0
+USER_03381,47.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_05096,43.0,FEMALE,facebook,0,direct,Mac Desktop,NDF,0,0
+USER_08219,19.0,MALE,facebook,0,sem-brand,Android Phone,ES,0,0
+USER_02424,27.0,FEMALE,basic,0,sem-brand,iPhone,NDF,0,0
+USER_07400,27.0,MALE,basic,0,sem-brand,iPhone,ES,0,0
+USER_09651,41.0,MALE,basic,0,direct,Windows Desktop,IT,0,0
+USER_01199,49.0,FEMALE,basic,0,direct,Windows Desktop,US,0,0
+USER_08934,40.0,MALE,google,0,sem-non-brand,Windows Desktop,NDF,0,0
+USER_09473,28.0,UNKNOWN,basic,0,direct,Windows Desktop,NDF,0,1
+USER_02733,24.0,UNKNOWN,facebook,0,other,iPhone,NDF,0,1
+USER_01998,32.0,UNKNOWN,basic,0,direct,Windows Desktop,NDF,0,1
+USER_04855,59.0,FEMALE,basic,3,direct,Mac Desktop,GB,0,0
+USER_06686,28.0,UNKNOWN,basic,0,direct,Windows Desktop,US,0,1
+USER_00176,34.0,MALE,facebook,0,other,iPhone,GB,0,0
+USER_01629,43.0,OTHER,google,0,sem-brand,Windows Desktop,GB,0,0
+USER_01852,,OTHER,google,0,direct,Android Phone,NDF,1,0
+USER_05682,22.0,FEMALE,facebook,0,direct,Android Phone,ES,0,0
+USER_09365,27.0,MALE,facebook,12,sem-brand,iPhone,NDF,0,0
+USER_08037,18.0,MALE,basic,12,direct,iPhone,US,0,0
+USER_04751,31.0,MALE,basic,0,sem-non-brand,Windows Desktop,NDF,0,0
+USER_03054,53.0,FEMALE,google,3,direct,Windows Desktop,NDF,0,0
+USER_05377,19.0,FEMALE,facebook,0,sem-non-brand,iPhone,NDF,0,0
+USER_05785,40.0,MALE,basic,25,direct,iPhone,IT,0,0
+USER_05589,50.0,MALE,facebook,3,other,Windows Desktop,ES,0,0
+USER_01955,,MALE,basic,0,direct,Mac Desktop,GB,1,0
+USER_03211,21.0,FEMALE,google,0,direct,Windows Desktop,GB,0,0
+USER_05657,33.0,MALE,basic,0,direct,Windows Desktop,GB,0,0
+USER_00884,,MALE,basic,12,direct,Mac Desktop,IT,1,0
+USER_07992,52.0,UNKNOWN,google,0,direct,Mac Desktop,GB,0,1
+USER_05300,,MALE,basic,0,direct,Mac Desktop,IT,1,0
+USER_02400,26.0,UNKNOWN,basic,0,direct,iPhone,ES,0,1
+USER_00031,54.0,MALE,facebook,0,direct,Windows Desktop,NDF,0,0
+USER_05696,29.0,FEMALE,basic,0,other,Windows Desktop,US,0,0
+USER_02933,44.0,FEMALE,facebook,0,direct,Windows Desktop,NDF,0,0
+USER_00915,37.0,MALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_07688,31.0,MALE,google,0,direct,Mac Desktop,FR,0,0
+USER_09314,32.0,UNKNOWN,basic,0,direct,Android Phone,NDF,0,1
+USER_09565,,MALE,basic,0,sem-brand,Mac Desktop,NDF,1,0
+USER_00211,46.0,OTHER,facebook,3,direct,Mac Desktop,ES,0,0
+USER_03682,35.0,MALE,basic,0,direct,Windows Desktop,GB,0,0
+USER_01099,37.0,FEMALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_07110,23.0,UNKNOWN,basic,0,sem-brand,Mac Desktop,NDF,0,1
+USER_05553,41.0,FEMALE,google,0,direct,Mac Desktop,DE,0,0
+USER_07864,28.0,FEMALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_07398,38.0,FEMALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_05445,31.0,FEMALE,basic,0,sem-non-brand,iPhone,NDF,0,0
+USER_00220,59.0,UNKNOWN,basic,0,direct,Windows Desktop,other,0,1
+USER_05849,27.0,FEMALE,google,12,sem-non-brand,Windows Desktop,US,0,0
+USER_02020,,FEMALE,basic,0,sem-brand,Windows Desktop,ES,1,0
+USER_02376,30.0,MALE,basic,0,direct,Android Phone,NDF,0,0
+USER_09922,25.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_04400,39.0,MALE,basic,3,sem-non-brand,Android Phone,NDF,0,0
+USER_02645,25.0,FEMALE,basic,0,direct,Android Phone,US,0,0
+USER_04593,20.0,MALE,basic,0,direct,Mac Desktop,US,0,0
+USER_03678,47.0,FEMALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_06576,27.0,MALE,basic,0,direct,iPhone,NDF,0,0
+USER_02210,20.0,FEMALE,basic,0,direct,iPhone,NDF,0,0
+USER_06122,25.0,MALE,facebook,0,sem-brand,Windows Desktop,IT,0,0
+USER_09499,52.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_05655,25.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_00394,46.0,FEMALE,facebook,0,direct,Windows Desktop,NDF,0,0
+USER_00359,24.0,UNKNOWN,facebook,0,direct,Mac Desktop,NDF,0,1
+USER_01537,28.0,FEMALE,basic,0,sem-brand,Windows Desktop,ES,0,0
+USER_07736,63.0,FEMALE,basic,3,direct,Mac Desktop,NDF,0,0
+USER_08318,24.0,FEMALE,google,0,direct,Mac Desktop,other,0,0
+USER_06780,47.0,MALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_09069,41.0,FEMALE,basic,3,sem-brand,Windows Desktop,IT,0,0
+USER_07847,34.0,FEMALE,facebook,0,direct,Mac Desktop,US,0,0
+USER_02278,41.0,FEMALE,facebook,0,direct,Mac Desktop,DE,0,0
+USER_04231,48.0,MALE,google,3,direct,Windows Desktop,other,0,0
+USER_03354,27.0,OTHER,basic,0,sem-brand,Android Phone,ES,0,0
+USER_09543,27.0,UNKNOWN,basic,0,direct,Windows Desktop,US,0,1
+USER_03857,40.0,FEMALE,facebook,0,direct,Windows Desktop,NDF,0,0
+USER_07636,21.0,MALE,google,0,sem-brand,Windows Desktop,GB,0,0
+USER_08433,42.0,MALE,basic,0,other,Android Phone,NDF,0,0
+USER_03277,35.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_06821,54.0,FEMALE,google,0,sem-non-brand,Android Phone,US,0,0
+USER_09390,32.0,MALE,basic,0,direct,Mac Desktop,FR,0,0
+USER_02495,42.0,MALE,basic,25,direct,Windows Desktop,GB,0,0
+USER_08542,26.0,MALE,google,3,direct,Windows Desktop,IT,0,0
+USER_07717,46.0,MALE,basic,25,sem-brand,iPhone,NDF,0,0
+USER_06540,37.0,FEMALE,basic,0,direct,iPhone,NDF,0,0
+USER_04035,44.0,FEMALE,google,0,direct,Windows Desktop,NDF,0,0
+USER_06242,48.0,UNKNOWN,basic,0,other,Windows Desktop,US,0,1
+USER_08971,50.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_00828,29.0,FEMALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_09718,,FEMALE,basic,0,direct,Windows Desktop,NDF,1,0
+USER_05130,38.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_04916,45.0,MALE,basic,0,direct,Windows Desktop,IT,0,0
+USER_01095,33.0,MALE,basic,0,sem-non-brand,Windows Desktop,other,0,0
+USER_02257,,FEMALE,basic,3,direct,Windows Desktop,US,1,0
+USER_08999,42.0,MALE,basic,0,direct,Mac Desktop,DE,0,0
+USER_05000,29.0,FEMALE,basic,12,direct,iPhone,NDF,0,0
+USER_08260,28.0,FEMALE,basic,3,direct,Windows Desktop,other,0,0
+USER_06732,35.0,MALE,google,0,direct,Mac Desktop,US,0,0
+USER_03071,52.0,FEMALE,google,0,direct,Windows Desktop,ES,0,0
+USER_09706,51.0,MALE,facebook,0,sem-brand,Android Phone,NDF,0,0
+USER_01298,36.0,UNKNOWN,facebook,0,direct,iPhone,NDF,0,1
+USER_00454,28.0,OTHER,facebook,12,direct,Windows Desktop,ES,0,0
+USER_01502,,MALE,facebook,3,direct,Windows Desktop,other,1,0
+USER_04976,49.0,FEMALE,basic,3,sem-brand,Android Phone,IT,0,0
+USER_01729,54.0,MALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_06113,24.0,UNKNOWN,facebook,0,sem-brand,Mac Desktop,other,0,1
+USER_09946,18.0,FEMALE,basic,0,direct,Mac Desktop,ES,0,0
+USER_05337,25.0,MALE,basic,0,direct,Windows Desktop,US,0,0
+USER_07530,47.0,MALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_09984,,FEMALE,basic,0,direct,iPhone,NDF,1,0
+USER_05612,45.0,MALE,facebook,0,sem-brand,Android Phone,IT,0,0
+USER_07552,27.0,MALE,basic,0,sem-non-brand,Mac Desktop,NDF,0,0
+USER_06884,35.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_08384,35.0,MALE,facebook,3,direct,Windows Desktop,IT,0,0
+USER_01107,,MALE,facebook,0,direct,Windows Desktop,NDF,1,0
+USER_09660,33.0,FEMALE,basic,0,direct,Mac Desktop,FR,0,0
+USER_06765,38.0,MALE,basic,0,sem-non-brand,iPhone,US,0,0
+USER_02016,31.0,MALE,facebook,0,direct,Mac Desktop,DE,0,0
+USER_07186,21.0,UNKNOWN,basic,25,direct,Mac Desktop,other,0,1
+USER_02938,25.0,MALE,basic,12,direct,Mac Desktop,GB,0,0
+USER_04522,39.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_04648,26.0,FEMALE,basic,25,direct,Mac Desktop,US,0,0
+USER_03779,33.0,FEMALE,basic,0,direct,Windows Desktop,US,0,0
+USER_03371,20.0,FEMALE,basic,0,sem-brand,Windows Desktop,other,0,0
+USER_09325,37.0,FEMALE,basic,0,other,Windows Desktop,US,0,0
+USER_00472,27.0,FEMALE,facebook,0,sem-non-brand,Mac Desktop,NDF,0,0
+USER_08085,36.0,FEMALE,basic,0,direct,Windows Desktop,US,0,0
+USER_01651,37.0,FEMALE,basic,3,direct,Windows Desktop,US,0,0
+USER_03760,37.0,FEMALE,google,0,direct,Mac Desktop,US,0,0
+USER_09411,24.0,OTHER,basic,12,sem-brand,Windows Desktop,NDF,0,0
+USER_00830,19.0,OTHER,facebook,0,direct,Windows Desktop,NDF,0,0
+USER_00785,45.0,MALE,facebook,0,sem-brand,Windows Desktop,US,0,0
+USER_04730,20.0,MALE,google,0,other,Windows Desktop,NDF,0,0
+USER_05930,23.0,MALE,basic,25,other,Windows Desktop,US,0,0
+USER_02366,28.0,MALE,basic,0,direct,Mac Desktop,IT,0,0
+USER_05515,27.0,MALE,facebook,0,direct,iPhone,NDF,0,0
+USER_07591,,FEMALE,facebook,0,other,Mac Desktop,other,1,0
+USER_05534,32.0,FEMALE,facebook,0,direct,Android Phone,NDF,0,0
+USER_06996,42.0,MALE,basic,0,direct,Mac Desktop,US,0,0
+USER_00425,49.0,MALE,basic,0,direct,Windows Desktop,US,0,0
+USER_04818,40.0,MALE,basic,25,direct,iPhone,US,0,0
+USER_01056,33.0,FEMALE,facebook,3,sem-brand,Mac Desktop,NDF,0,0
+USER_01628,34.0,FEMALE,basic,3,direct,Mac Desktop,NDF,0,0
+USER_09668,23.0,MALE,facebook,0,sem-non-brand,Windows Desktop,NDF,0,0
+USER_04187,,UNKNOWN,facebook,0,direct,Windows Desktop,other,1,1
+USER_03389,,FEMALE,basic,0,sem-brand,Android Phone,NDF,1,0
+USER_03546,41.0,FEMALE,basic,0,sem-brand,Android Phone,other,0,0
+USER_04643,49.0,UNKNOWN,basic,0,direct,Mac Desktop,other,0,1
+USER_08307,,FEMALE,basic,0,sem-brand,Mac Desktop,NDF,1,0
+USER_04762,41.0,MALE,basic,0,other,Mac Desktop,NDF,0,0
+USER_03684,40.0,FEMALE,facebook,0,direct,Mac Desktop,NDF,0,0
+USER_02747,21.0,MALE,basic,0,direct,Mac Desktop,ES,0,0
+USER_01493,36.0,FEMALE,basic,0,direct,Android Phone,NDF,0,0
+USER_02445,36.0,MALE,facebook,3,sem-brand,Windows Desktop,GB,0,0
+USER_06096,21.0,UNKNOWN,google,3,direct,iPhone,US,0,1
+USER_04772,,FEMALE,basic,0,direct,Windows Desktop,other,1,0
+USER_04398,45.0,UNKNOWN,basic,0,direct,Mac Desktop,US,0,1
+USER_08111,22.0,FEMALE,basic,0,direct,iPhone,US,0,0
+USER_08859,24.0,OTHER,basic,0,direct,Mac Desktop,US,0,0
+USER_03776,23.0,FEMALE,basic,0,sem-brand,iPhone,NDF,0,0
+USER_07988,37.0,FEMALE,basic,0,sem-non-brand,Windows Desktop,US,0,0
+USER_02809,27.0,MALE,basic,25,sem-non-brand,iPhone,ES,0,0
+USER_02728,25.0,FEMALE,basic,0,sem-brand,Windows Desktop,GB,0,0
+USER_01845,22.0,MALE,google,0,sem-non-brand,Windows Desktop,GB,0,0
+USER_03459,21.0,FEMALE,basic,0,other,Android Phone,NDF,0,0
+USER_01530,35.0,MALE,facebook,12,sem-brand,Windows Desktop,IT,0,0
+USER_03795,30.0,MALE,basic,0,direct,Mac Desktop,US,0,0
+USER_04326,27.0,MALE,basic,3,direct,iPhone,US,0,0
+USER_00762,62.0,MALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_01825,38.0,FEMALE,basic,0,direct,Windows Desktop,other,0,0
+USER_06971,,UNKNOWN,basic,0,other,Windows Desktop,US,1,1
+USER_07442,35.0,UNKNOWN,basic,0,direct,Android Phone,US,0,1
+USER_08185,19.0,MALE,basic,0,direct,iPhone,ES,0,0
+USER_04079,,FEMALE,basic,0,sem-brand,Windows Desktop,NDF,1,0
+USER_04602,51.0,MALE,basic,0,sem-brand,Windows Desktop,US,0,0
+USER_00823,30.0,UNKNOWN,basic,0,sem-brand,Mac Desktop,US,0,1
+USER_05616,32.0,MALE,facebook,0,direct,Mac Desktop,US,0,0
+USER_02407,43.0,FEMALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_08129,37.0,MALE,facebook,0,sem-brand,iPhone,NDF,0,0
+USER_05296,34.0,UNKNOWN,basic,3,other,Windows Desktop,NDF,0,1
+USER_03652,38.0,FEMALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_04680,31.0,UNKNOWN,facebook,0,direct,Mac Desktop,NDF,0,1
+USER_07391,34.0,FEMALE,basic,0,other,iPhone,NDF,0,0
+USER_07569,27.0,FEMALE,google,0,sem-brand,Windows Desktop,US,0,0
+USER_06231,,MALE,basic,12,direct,Android Phone,NDF,1,0
+USER_08267,22.0,MALE,facebook,3,direct,Windows Desktop,NDF,0,0
+USER_00332,34.0,UNKNOWN,basic,0,direct,Mac Desktop,FR,0,1
+USER_04050,25.0,FEMALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_04685,41.0,UNKNOWN,basic,25,sem-brand,Android Phone,NDF,0,1
+USER_07727,26.0,FEMALE,facebook,0,direct,iPhone,NDF,0,0
+USER_08722,37.0,FEMALE,basic,25,direct,iPhone,NDF,0,0
+USER_02720,55.0,FEMALE,basic,0,sem-non-brand,Windows Desktop,US,0,0
+USER_02554,24.0,FEMALE,basic,0,sem-brand,Android Phone,NDF,0,0
+USER_05464,22.0,MALE,basic,0,direct,iPhone,NDF,0,0
+USER_03405,16.0,OTHER,basic,0,other,Android Phone,ES,0,0
+USER_02995,34.0,FEMALE,google,0,direct,Windows Desktop,NDF,0,0
+USER_02321,42.0,UNKNOWN,facebook,0,direct,Android Phone,NDF,0,1
+USER_03919,,FEMALE,facebook,12,direct,iPhone,other,1,0
+USER_06588,24.0,OTHER,basic,0,sem-brand,iPhone,ES,0,0
+USER_05393,35.0,MALE,basic,0,sem-non-brand,Windows Desktop,other,0,0
+USER_00261,33.0,MALE,basic,3,sem-brand,Windows Desktop,US,0,0
+USER_04289,40.0,UNKNOWN,basic,0,direct,iPhone,NDF,0,1
+USER_07611,,MALE,basic,0,other,iPhone,NDF,1,0
+USER_04362,37.0,FEMALE,google,0,sem-brand,Windows Desktop,IT,0,0
+USER_02867,24.0,OTHER,basic,0,direct,iPhone,NDF,0,0
+USER_03790,40.0,UNKNOWN,basic,0,sem-non-brand,Mac Desktop,NDF,0,1
+USER_01750,14.0,UNKNOWN,basic,3,direct,Windows Desktop,NDF,0,1
+USER_08812,34.0,OTHER,basic,0,direct,Windows Desktop,other,0,0
+USER_05790,26.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_09866,37.0,FEMALE,basic,12,other,Windows Desktop,US,0,0
+USER_09746,32.0,FEMALE,google,0,direct,Windows Desktop,NDF,0,0
+USER_02716,40.0,FEMALE,facebook,0,other,iPhone,NDF,0,0
+USER_07001,24.0,MALE,basic,3,sem-brand,Android Phone,NDF,0,0
+USER_02807,24.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_01788,37.0,MALE,basic,0,direct,iPhone,US,0,0
+USER_03764,36.0,MALE,basic,0,sem-brand,Windows Desktop,ES,0,0
+USER_04986,31.0,FEMALE,basic,0,other,iPhone,NDF,0,0
+USER_01472,,MALE,basic,0,sem-brand,iPhone,NDF,1,0
+USER_00297,37.0,FEMALE,facebook,3,sem-non-brand,Mac Desktop,US,0,0
+USER_05140,27.0,UNKNOWN,google,0,other,Windows Desktop,NDF,0,1
+USER_07472,20.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_07281,49.0,MALE,google,0,sem-non-brand,Windows Desktop,US,0,0
+USER_01363,23.0,FEMALE,basic,0,direct,iPhone,NDF,0,0
+USER_07358,20.0,FEMALE,facebook,0,other,iPhone,US,0,0
+USER_07274,49.0,MALE,facebook,0,direct,Windows Desktop,ES,0,0
+USER_05430,26.0,FEMALE,facebook,0,sem-brand,Mac Desktop,NDF,0,0
+USER_03916,33.0,UNKNOWN,facebook,0,direct,Mac Desktop,DE,0,1
+USER_04567,20.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_08968,39.0,FEMALE,basic,0,sem-brand,Mac Desktop,FR,0,0
+USER_07193,44.0,MALE,facebook,12,direct,Windows Desktop,GB,0,0
+USER_00074,15.0,FEMALE,facebook,0,sem-brand,iPhone,US,0,0
+USER_03399,29.0,MALE,basic,25,direct,Windows Desktop,IT,0,0
+USER_00369,25.0,FEMALE,basic,0,sem-brand,iPhone,ES,0,0
+USER_09139,42.0,FEMALE,basic,0,direct,Windows Desktop,GB,0,0
+USER_01440,41.0,MALE,basic,0,sem-non-brand,Windows Desktop,US,0,0
+USER_00010,28.0,MALE,facebook,0,direct,Mac Desktop,NDF,0,0
+USER_04850,15.0,FEMALE,google,0,direct,iPhone,NDF,0,0
+USER_09838,23.0,MALE,basic,0,sem-brand,iPhone,US,0,0
+USER_02340,41.0,FEMALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_04518,37.0,FEMALE,basic,0,sem-non-brand,Mac Desktop,NDF,0,0
+USER_09133,37.0,MALE,basic,12,sem-non-brand,Android Phone,ES,0,0
+USER_06709,30.0,MALE,basic,0,other,Windows Desktop,NDF,0,0
+USER_07716,26.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_05613,35.0,OTHER,basic,0,direct,Android Phone,US,0,0
+USER_03323,36.0,MALE,google,0,direct,Windows Desktop,IT,0,0
+USER_08293,58.0,MALE,facebook,0,sem-brand,Windows Desktop,NDF,0,0
+USER_04191,36.0,FEMALE,google,0,sem-brand,iPhone,NDF,0,0
+USER_04195,28.0,OTHER,google,0,direct,iPhone,NDF,0,0
+USER_07651,,FEMALE,basic,0,other,Android Phone,US,1,0
+USER_01317,30.0,OTHER,basic,0,direct,Windows Desktop,NDF,0,0
+USER_06082,47.0,FEMALE,basic,0,direct,Windows Desktop,ES,0,0
+USER_06398,43.0,MALE,basic,3,direct,Windows Desktop,NDF,0,0
+USER_04659,25.0,OTHER,facebook,0,sem-brand,Android Phone,NDF,0,0
+USER_04028,51.0,MALE,basic,0,direct,iPhone,GB,0,0
+USER_01251,43.0,MALE,google,0,direct,Windows Desktop,US,0,0
+USER_06773,21.0,MALE,basic,3,direct,Android Phone,US,0,0
+USER_07705,30.0,UNKNOWN,facebook,0,sem-brand,iPhone,other,0,1
+USER_07926,24.0,MALE,basic,3,direct,iPhone,NDF,0,0
+USER_08348,40.0,OTHER,basic,0,direct,iPhone,ES,0,0
+USER_08009,45.0,MALE,basic,0,direct,Windows Desktop,US,0,0
+USER_00395,28.0,MALE,basic,0,sem-non-brand,Mac Desktop,other,0,0
+USER_02249,44.0,FEMALE,basic,25,direct,iPhone,NDF,0,0
+USER_07522,35.0,FEMALE,facebook,0,sem-brand,Windows Desktop,NDF,0,0
+USER_04043,37.0,MALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_07667,28.0,MALE,basic,0,sem-non-brand,iPhone,NDF,0,0
+USER_04948,29.0,FEMALE,basic,0,sem-non-brand,Windows Desktop,NDF,0,0
+USER_01094,,MALE,basic,0,sem-brand,Windows Desktop,other,1,0
+USER_07733,34.0,MALE,basic,0,direct,Windows Desktop,US,0,0
+USER_02405,48.0,MALE,google,0,direct,iPhone,US,0,0
+USER_09072,26.0,FEMALE,facebook,0,other,Mac Desktop,US,0,0
+USER_07348,24.0,FEMALE,basic,3,sem-brand,Windows Desktop,IT,0,0
+USER_07566,30.0,FEMALE,google,0,direct,Mac Desktop,FR,0,0
+USER_07087,23.0,MALE,google,0,direct,Mac Desktop,NDF,0,0
+USER_08678,38.0,OTHER,basic,0,direct,Windows Desktop,NDF,0,0
+USER_03646,36.0,OTHER,google,0,direct,Windows Desktop,NDF,0,0
+USER_01349,31.0,MALE,basic,3,direct,Mac Desktop,NDF,0,0
+USER_04173,23.0,MALE,basic,0,direct,iPhone,NDF,0,0
+USER_08561,41.0,FEMALE,facebook,3,direct,Windows Desktop,US,0,0
+USER_02074,27.0,MALE,basic,3,sem-non-brand,Android Phone,US,0,0
+USER_05561,33.0,MALE,basic,0,direct,iPhone,NDF,0,0
+USER_09470,38.0,FEMALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_06239,37.0,FEMALE,basic,0,direct,Mac Desktop,US,0,0
+USER_01334,35.0,FEMALE,basic,0,direct,Android Phone,US,0,0
+USER_02346,28.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_03024,23.0,FEMALE,basic,0,direct,Windows Desktop,US,0,0
+USER_05053,31.0,FEMALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_09265,41.0,FEMALE,google,0,direct,Windows Desktop,NDF,0,0
+USER_08980,30.0,MALE,basic,3,sem-non-brand,Mac Desktop,FR,0,0
+USER_06699,24.0,UNKNOWN,basic,0,other,Mac Desktop,NDF,0,1
+USER_02826,47.0,FEMALE,basic,25,direct,Mac Desktop,NDF,0,0
+USER_01790,23.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_01637,38.0,UNKNOWN,basic,3,direct,iPhone,ES,0,1
+USER_05604,38.0,MALE,basic,0,direct,Android Phone,NDF,0,0
+USER_04148,28.0,MALE,basic,0,sem-non-brand,Mac Desktop,ES,0,0
+USER_02830,25.0,UNKNOWN,basic,0,direct,Windows Desktop,US,0,1
+USER_06230,37.0,FEMALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_00058,37.0,MALE,basic,3,other,Windows Desktop,other,0,0
+USER_05939,58.0,FEMALE,basic,0,other,iPhone,NDF,0,0
+USER_02678,35.0,FEMALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_02171,33.0,MALE,basic,3,direct,Mac Desktop,NDF,0,0
+USER_00739,45.0,FEMALE,basic,0,sem-non-brand,Windows Desktop,NDF,0,0
+USER_00815,27.0,MALE,google,0,direct,Android Phone,NDF,0,0
+USER_08193,35.0,FEMALE,basic,0,direct,Windows Desktop,NDF,0,0
+USER_05958,,MALE,basic,0,direct,iPhone,NDF,1,0
+USER_01830,41.0,MALE,basic,0,direct,Mac Desktop,FR,0,0
+USER_03521,16.0,MALE,basic,0,direct,Mac Desktop,GB,0,0
+USER_00803,28.0,MALE,basic,0,sem-brand,Windows Desktop,NDF,0,0
+USER_06463,40.0,MALE,basic,0,direct,Windows Desktop,US,0,0
+USER_01258,26.0,FEMALE,basic,3,sem-brand,Windows Desktop,US,0,0
+USER_02359,38.0,FEMALE,basic,0,direct,Windows Desktop,US,0,0
+USER_03946,39.0,FEMALE,basic,0,direct,Mac Desktop,DE,0,0
+USER_05747,36.0,FEMALE,basic,0,direct,Mac Desktop,NDF,0,0
+USER_06176,32.0,FEMALE,basic,0,direct,Windows Desktop,US,0,0
+USER_09725,30.0,FEMALE,google,0,direct,Windows Desktop,NDF,0,0
+USER_06919,33.0,OTHER,basic,0,direct,iPhone,US,0,0
+USER_03015,45.0,UNKNOWN,basic,0,direct,iPhone,NDF,0,1
+USER_03973,34.0,UNKNOWN,basic,3,direct,Windows Desktop,NDF,0,1
+USER_08190,40.0,FEMALE,basic,0,direct,iPhone,other,0,0
+USER_08795,24.0,MALE,basic,0,sem-non-brand,Mac Desktop,other,0,0
+USER_00851,27.0,MALE,basic,3,sem-brand,iPhone,NDF,0,0
+USER_07852,37.0,MALE,basic,0,other,Mac Desktop,US,0,0
+USER_09731,46.0,MALE,basic,0,direct,iPhone,NDF,0,0
+USER_07178,29.0,MALE,facebook,0,other,Windows Desktop,NDF,0,0
+USER_07017,24.0,UNKNOWN,basic,0,direct,Windows Desktop,US,0,1
+USER_04104,33.0,MALE,basic,0,sem-non-brand,iPhone,NDF,0,0
+USER_03821,36.0,MALE,basic,0,direct,Mac Desktop,FR,0,0
+USER_05531,25.0,MALE,basic,0,direct,Android Phone,NDF,0,0
+USER_00807,28.0,MALE,google,12,direct,Windows Desktop,other,0,0
