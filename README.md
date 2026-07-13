@@ -3,6 +3,8 @@
 Predict which country a new PlaceUp user will book — balancing predictive
 accuracy against the business need for **diverse, explainable** recommendations.
 
+📓 **[View the fully-rendered notebook on nbviewer](https://nbviewer.org/github/nitayv658/placeup-travel-personalization/blob/main/notebooks/quest3_the_compass.ipynb)** — recommended (GitHub's inline notebook preview can be unreliable for larger notebooks).
+
 ## Problem
 10,000 users, one row each. The target `country_destination` has 8 heavily
 imbalanced classes, ~48% of them `NDF` ("no destination found" — the user never
