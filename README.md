@@ -47,4 +47,4 @@ jupyter lab notebooks/quest3_the_compass.ipynb   # then Restart & Run All
 ```
 
 ---
-*Author: <your name> · <LinkedIn / GitHub link>*
+*Author: Nitay Vitkin · [GitHub](https://github.com/nitayv658)*
